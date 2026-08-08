@@ -1,9 +1,9 @@
-# Final Fantasy XIV en español
+# Language pack en español para FFXIV (no oficial)
 
-Traducción al español de los textos de Final Fantasy XIV. No es oficial, no está respaldada por
-Square Enix y **no modifica los ficheros del juego**.
+Traducción al español de los textos de Final Fantasy XIV, pensada para el plugin de Dalamud
+**Gubal Library**.
 
-> ### [⬇ Descargar la última versión](https://github.com/ashdam/ffxiv-language-pack-es/releases/latest)
+Esta traducción no modifica los ficheros originales del juego.
 
 ## Motivación
 
@@ -20,69 +20,63 @@ Este proyecto no es una localización profesional ni aspira a sustituir a una of
 más modesto, y lo dice con total transparencia: está hecho en su mayor parte con IA, supervisión
 humana y el cariño de un grupo de fans de la saga.
 
-## Cómo instalarlo
+## Criterios de traducción
 
-Hace falta [XIVLauncher/Dalamud](https://goatcorp.github.io) y el plugin **Gubal Library**, que es
-quien pone la traducción en pantalla. El plugin se instala vacío: sin este pack no cambia nada.
+**Traducción con IA supervisada y revisión humana.** Por el volumen de texto, el grueso lo traducen
+modelos de lenguaje siguiendo instrucciones detalladas sobre terminología y criterio; el resultado se
+revisa y se corrige.
 
-1. **Añade el repositorio del plugin.** `/xlsettings` → **Experimental** → pega esta dirección en una
-   casilla vacía de *Custom Plugin Repositories*, pulsa **+**, marca *Enabled* y **Save and Close**:
+**Precedencia de la saga.** Cuando un término tiene traducción oficial en algún Final Fantasy
+publicado en español, esa forma tiene prioridad sobre cualquier alternativa. Ejemplos: *moogle* es
+«moguri», *Limit Break* es «Límite», *the Mist* es «la Niebla» (Final Fantasy XII) y *morbol* es
+«molbol» (Final Fantasy XII *The Zodiac Age* y Final Fantasy VII Remake). Cuando un título nunca se
+publicó en español, como Final Fantasy Tactics, no hay precedente al que recurrir: el término se
+decide aquí y se documenta como decisión propia.
 
-   ```
-   https://raw.githubusercontent.com/ashdam/gubal-library/main/repo.json
-   ```
+**Tres idiomas de referencia, cada uno con una función distinta.** Cada línea se traduce con las
+versiones inglesa, francesa y japonesa delante, que no son tres variantes equivalentes del mismo
+contenido:
 
-2. **Instala el plugin.** `/xlplugins` → busca **Gubal Library** → **Install**.
+- **Inglés.** Es el texto que el jugador ve en pantalla, y determina qué se dice.
+- **Japonés.** Es la versión original —Final Fantasy XIV se escribe primero en japonés— y aporta la
+  intención, el registro de cada personaje, los honoríficos y los tics de habla que el inglés tiende
+  a neutralizar.
+- **Francés.** Al compartir estructura gramatical con el español, resuelve género, número y
+  tratamiento. El inglés no distingue entre tú y usted; el francés sí, de modo que la formalidad de
+  cada personaje se deduce de ahí.
 
-3. **Instala la traducción.** `/gubal` → pega esta dirección en *Language pack* y pulsa **Install**:
+Las divergencias entre las tres versiones son un dato, no una anomalía. En buena parte del contenido
+ambiental el equipo inglés reescribió los diálogos mientras el francés y el japonés siguen el
+original: en esos casos se traduce desde el inglés, pero la divergencia avisa de que la escena fue
+reinterpretada y conviene revisar el tono.
 
-   ```
-   https://github.com/ashdam/ffxiv-language-pack-es/releases/latest/download/ffxiv-language-pack-es.zip
-   ```
+**El texto de partida no es una frase fija.** Muchas líneas llevan elementos que el juego completa al
+mostrarlas: el nombre del jugador, su género, una cantidad. El español exige más concordancia que el
+inglés, así que la traducción se escribe para que funcione en todas las combinaciones posibles y no
+solo en la que se tenga delante.
 
-4. **Reinicia el juego.** No es opcional: el cliente lee sus textos una sola vez al arrancar y los
-   conserva toda la sesión, así que hasta el siguiente inicio no verás nada.
+**Cada tribu y cada facción tienen voz propia.** Los sylphs hablan de sí mismos en tercera persona,
+los kobolds articulan a través de la máscara, los Sahagin sisean y los goblins comprimen las palabras
+en compuestos. Esos registros se fijan una vez y se mantienen a partir del material ya traducido, en
+lugar de reinventarse en cada misión.
 
-A partir de ahí el plugin avisa por su cuenta cuando se publica una versión nueva.
+## Estado
 
-## Qué está traducido
+Versión de juego **2026.08.05.0000.0000**. Traducidas **86.967 de 378.368 filas, un 23,0 %**. Lo
+terminado está completo y verificado; lo pendiente son las misiones de las demás expansiones y el
+contenido secundario.
 
-Hecho para la versión de juego **2026.08.05.0000.0000**. La traducción se genera contra un parche
-concreto y el plugin se niega a usarla con otro, así que cada actualización del juego necesita una
-versión nueva de este pack.
+| Bloque | Filas | Traducido | |
+|---|---|---|---|
+| Ambientación — 14 hojas de NPC, bocadillos, mazmorras y contenido público | 60.745 | 55.164 | **90,8 %** |
+| Dawntrail — misión principal | 11.368 | 9.807 | 86,3 % |
+| Cinemáticas | 25.915 | 7.053 | 27,2 % |
+| Misión principal, A Realm Reborn → Endwalker | 48.795 | 12.899 | 26,4 % |
+| Misiones de clase y de trabajo | 58.921 | 1.795 | 3,0 % |
+| Conversaciones de CustomTalk | 28.777 | 113 | 0,4 % |
+| Misiones secundarias | 71.073 | 126 | 0,2 % |
+| Tribus aliadas, crónicas, eventos y colaboraciones | 72.774 | 10 | 0 % |
+| **Total** | **378.368** | **86.967** | **23,0 %** |
 
-| Bloque | Traducido |
-|---|---|
-| Ambientación — NPC de ciudad y de zona, bocadillos, mazmorras y contenido público | **90,8 %** |
-| Dawntrail — misión principal | 86,3 % |
-| Cinemáticas | 27,2 % |
-| Misión principal, A Realm Reborn → Endwalker | 26,4 % |
-| Misiones de clase y de trabajo | 3,0 % |
-| Conversaciones con NPC de servicios | 0,4 % |
-| Misiones secundarias | 0,2 % |
-| Tribus aliadas, crónicas, eventos y colaboraciones | 0 % |
-| **Total** | **23,0 %** |
-
-Lo terminado está completo y verificado. **A Realm Reborn está cerrada en su hilo principal**
-(diálogo, diario, objetivos y avisos) y es la expansión que se está completando antes de pasar a la
-siguiente.
-
-Lo que aún no está traducido se ve en inglés, sin más: cada línea está en un idioma o en el otro, y
-no hay huecos ni frases a medias.
-
-## Cómo se traduce
-
-Cada línea se traduce con las versiones inglesa, francesa y japonesa delante, porque cada una aporta
-algo distinto: el inglés es lo que el jugador ve, el japonés es el original y lleva la intención y el
-registro de cada personaje, y el francés —que comparte gramática con el español— resuelve el género y
-el tratamiento de tú o usted, que el inglés no distingue.
-
-Cuando un término tiene traducción oficial en algún Final Fantasy publicado en español, esa forma
-tiene prioridad sobre cualquier alternativa. Y cada tribu conserva su voz: los sylphs hablan de sí
-mismos en tercera persona, los kobolds articulan a través de la máscara, los Sahagin sisean y los
-goblins comprimen las palabras en compuestos.
-
-## Aviso
-
-Los textos originales son propiedad de Square Enix. Esto es una traducción hecha por aficionados, sin
-ánimo de lucro y sin ninguna relación con Square Enix ni con sus filiales.
+A Realm Reborn está terminado en su hilo principal (diálogo, diario, objetivos y avisos) y es la
+expansión que se está cerrando por completo antes de pasar a la siguiente.
