@@ -5,6 +5,14 @@ Traducción al español de los textos de Final Fantasy XIV, pensada para el plug
 
 Esta traducción no modifica los ficheros originales del juego.
 
+> [!WARNING]
+> **Este proyecto no es una localización profesional ni aspira a sustituir a una oficial.**
+>
+> Es una traducción hecha por aficionados, sin ánimo de lucro y sin ninguna relación con Square Enix
+> ni con sus filiales. Los textos originales son propiedad de Square Enix.
+>
+> Está hecha en su mayor parte con IA y supervisión humana, así que **habrá errores**.
+
 ## Motivación
 
 Esto es un esfuerzo de la comunidad hispanohablante: gente con ilusión por la saga que quiere verla
@@ -16,9 +24,9 @@ Buena parte de la saga sí se ha publicado en español a lo largo de más de vei
 vienen términos que reconoce cualquier fan, veterano o recién llegado: moguri, kupó (con tilde :P),
 molbol, cactilio. Ojalá acaben llenando Eorzea.
 
-Este proyecto no es una localización profesional ni aspira a sustituir a una oficial. Aspira a algo
-más modesto, y lo dice con total transparencia: está hecho en su mayor parte con IA, supervisión
-humana y el cariño de un grupo de fans de la saga.
+Lo de arriba no es una fórmula de cortesía: esto aspira a algo mucho más modesto que una
+localización oficial, y lo dice con total transparencia. Está hecho en su mayor parte con IA,
+supervisión humana y el cariño de un grupo de fans de la saga.
 
 ## Criterios de traducción
 
