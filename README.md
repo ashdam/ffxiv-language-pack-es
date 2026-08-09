@@ -25,7 +25,7 @@ vienen términos que reconoce cualquier fan, veterano o recién llegado: moguri,
 molbol, cactilio. Ojalá acaben llenando Eorzea.
 
 Lo de arriba no es una fórmula de cortesía: esto aspira a algo mucho más modesto que una
-localización oficial, y lo dice con total transparencia. Está hecho en su mayor parte con IA,
+localización oficial y, con total transparencia, en su mayor parte está hecho con IA,
 supervisión humana y el cariño de un grupo de fans de la saga.
 
 ## Criterios de traducción
@@ -46,7 +46,7 @@ versiones inglesa, francesa y japonesa delante, que no son tres variantes equiva
 contenido:
 
 - **Inglés.** Es el texto que el jugador ve en pantalla, y determina qué se dice.
-- **Japonés.** Es la versión original —Final Fantasy XIV se escribe primero en japonés— y aporta la
+- **Japonés.** Es la versión original de Final Fantasy XIV y aporta la
   intención, el registro de cada personaje, los honoríficos y los tics de habla que el inglés tiende
   a neutralizar.
 - **Francés.** Al compartir estructura gramatical con el español, resuelve género, número y
