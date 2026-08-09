@@ -1,5 +1,7 @@
 # Language pack en español para FFXIV (no oficial)
 
+**Español** · [English](README.en.md)
+
 Traducción al español de los textos de Final Fantasy XIV, pensada para el plugin de Dalamud
 **Gubal Library**.
 
@@ -27,6 +29,10 @@ molbol, cactilio. Ojalá acaben llenando Eorzea.
 Lo de arriba no es una fórmula de cortesía: esto aspira a algo mucho más modesto que una
 localización oficial y, con total transparencia, en su mayor parte está hecho con IA,
 supervisión humana y el cariño de un grupo de fans de la saga.
+
+Y si en algún momento Square Enix quisiera disponer de esta traducción, se la facilitaríamos con
+muchísimo gusto. Nada nos gustaría más que ver Eorzea en español de forma
+oficial y que este proyecto dejara de hacer falta.
 
 ## Criterios de traducción
 
