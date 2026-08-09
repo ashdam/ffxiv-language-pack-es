@@ -70,21 +70,44 @@ lugar de reinventarse en cada misión.
 
 ## Estado
 
-Versión de juego **2026.08.05.0000.0000**. Traducidas **86.967 de 378.368 filas, un 23,0 %**. Lo
-terminado está completo y verificado; lo pendiente son las misiones de las demás expansiones y el
-contenido secundario.
+Versión de juego **2026.08.05.0000.0000**. Traducidas **122.842 de 386.724 líneas, un 31,8 %**.
 
-| Bloque | Filas | Traducido | |
+### Lo que ya vas a ver en español
+
+| Qué es | Líneas | En español | |
 |---|---|---|---|
-| Ambientación — 14 hojas de NPC, bocadillos, mazmorras y contenido público | 60.745 | 55.164 | **90,8 %** |
-| Dawntrail — misión principal | 11.368 | 9.807 | 86,3 % |
-| Cinemáticas | 25.915 | 7.053 | 27,2 % |
-| Misión principal, A Realm Reborn → Endwalker | 48.795 | 12.899 | 26,4 % |
-| Misiones de clase y de trabajo | 58.921 | 1.795 | 3,0 % |
-| Conversaciones de CustomTalk | 28.777 | 113 | 0,4 % |
-| Misiones secundarias | 71.073 | 126 | 0,2 % |
-| Tribus aliadas, crónicas, eventos y colaboraciones | 72.774 | 10 | 0 % |
-| **Total** | **378.368** | **86.967** | **23,0 %** |
+| Lo que dicen los NPC al hablarles, sus gritos y los bocadillos sobre su cabeza | 42.697 | 42.689 | **100 %** |
+| Objetivos y avisos dentro de mazmorras, gestas, incursiones y contenido público | 11.561 | 11.461 | **99 %** |
+| Menús de servicios: Gran Compañía, Gold Saucer y similares | 536 | 535 | **99 %** |
+| Historia principal de **Dawntrail** | 11.368 | 9.807 | **86 %** |
+| Mensajes de combate, avisos rojos de mazmorra y textos del sistema | 8.356 | 6.845 | **82 %** |
 
-A Realm Reborn está terminado en su hilo principal (diálogo, diario, objetivos y avisos) y es la
-expansión que se está cerrando por completo antes de pasar a la siguiente.
+### Lo que está en marcha
+
+| Qué es | Líneas | En español | |
+|---|---|---|---|
+| Misiones de clase y de trabajo | 58.921 | 18.563 | 32 % |
+| Escenas con voz | 25.915 | 7.053 | 27 % |
+| Historia principal, de **A Realm Reborn** a **Endwalker** | 48.795 | 12.899 | 26 % |
+| Misiones secundarias | 71.073 | 10.087 | 14 % |
+| Tribus aliadas, eventos de temporada, crónicas y colaboraciones | 72.774 | 2.311 | 3 % |
+| Títulos de las misiones en el diario | 5.356 | 477 | 9 % |
+| Conversaciones con NPC de servicio: mercaderes, alquileres, viajes | 28.777 | 113 | 0,4 % |
+| Descripciones del Buscador de misiones | 595 | 2 | 0,3 % |
+| **Total** | **386.724** | **122.842** | **31,8 %** |
+
+### Cómo leer estas cifras
+
+**Están repartidas entre las siete expansiones a la vez**, así que ninguna fila de la tabla dice
+cuánto de *tu* partida está en español. **A Realm Reborn se está cerrando por completo antes de pasar
+a la siguiente**, y va muy por delante de lo que sugiere el total: de ARR ya están terminados el hilo
+principal, las secundarias de las tres ciudades y **todas las misiones de clase y de trabajo**, de la
+primera del gremio al final de cada trabajo, cada una con sus diálogos, su diario, sus objetivos y
+sus avisos.
+
+Un personaje nuevo que empiece hoy encuentra el juego en español casi de principio a fin hasta
+terminar A Realm Reborn. A partir de Heavensward, la historia principal y las escenas con voz están
+a medias y el resto va apareciendo por tandas.
+
+**Lo que aparece como terminado está verificado**, no estimado: cada línea entregada se comprueba
+contra el texto original antes de publicarse.
