@@ -28,6 +28,8 @@ words out of a file and drew them itself.
 
 ![A Spanish combat callout during a boss fight](images/example2.png)
 
+![Active Help](images/example5.png)
+
 ## Why
 
 This is an effort by the Spanish-speaking community: people who love the series and want to see it,

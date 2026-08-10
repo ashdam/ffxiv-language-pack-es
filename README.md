@@ -28,6 +28,8 @@ juego leyó esas palabras de un fichero y las dibujó él mismo.
 
 ![Un aviso de combate en español durante un jefe](images/example2.png)
 
+![Ayuda Activa](images/example5.png)
+
 ## Motivación
 
 Esto es un esfuerzo de la comunidad hispanohablante: gente con ilusión por la saga que quiere verla
