@@ -91,37 +91,38 @@ lugar de reinventarse en cada misión.
 
 ## Estado
 
-Versión de juego **2026.08.05.0000.0000**. Traducidas **129.605 de 384.880 líneas, un 33,7 %**.
+Versión de juego **2026.08.05.0000.0000**. Traducidas **133.143 de 387.693 líneas, un 34,3 %**.
 
 ### Lo que ya vas a ver en español
 
 | Qué es | Líneas | En español | |
 |---|---|---|---|
-| Lo que dicen los NPC al hablarles, sus gritos y los bocadillos sobre su cabeza | 42.614 | 42.614 | **100 %** |
-| Objetivos y avisos dentro de mazmorras, gestas, incursiones y contenido público | 11.584 | 11.584 | **100 %** |
-| Mensajes de combate, avisos rojos de mazmorra y textos del sistema | 6.858 | 6.840 | **100 %** |
+| Lo que dicen los NPC al hablarles, sus gritos y los bocadillos sobre su cabeza | 42.630 | 42.630 | **100 %** |
+| Objetivos y avisos dentro de mazmorras, gestas, incursiones y contenido público | 11.684 | 11.684 | **100 %** |
+| Mensajes de combate, avisos rojos de mazmorra y textos del sistema | 8.356 | 8.338 | **100 %** |
 | **A Realm Reborn**: la historia principal, sus escenas y todas las misiones de clase y de trabajo | 29.821 | 29.812 | **100 %** |
 | Escenas con voz de **Dawntrail** | 5.531 | 5.531 | **100 %** |
+| **A Realm Reborn**: los nombres de todas sus misiones | 1.573 | 1.573 | **100 %** |
+| Los tutoriales que el juego te ofrece | 969 | 969 | **100 %** |
 | **The Occult Crescent**, la historia completa | 895 | 895 | **100 %** |
-| Menús de servicios: Gran Compañía, Gold Saucer y similares | 479 | 479 | **100 %** |
+| Menús de servicios: Gran Compañía, Gold Saucer y similares | 480 | 480 | **100 %** |
 | **A Realm Reborn**: las misiones secundarias de las tres ciudades | 10.912 | 10.780 | **99 %** |
-| **A Realm Reborn**: las tribus aliadas | 6.263 | 5.679 | **91 %** |
+| **A Realm Reborn**: las tribus aliadas | 6.302 | 5.679 | **90 %** |
 | Historia principal de **Dawntrail** | 11.368 | 9.807 | **86 %** |
 
 ### Lo que está en marcha
 
 | Qué es | Líneas | En español | |
 |---|---|---|---|
-| Los tutoriales que el juego te ofrece al empezar | 969 | 200 | 21 % |
-| Lo que le queda a **A Realm Reborn**: eventos, cierre de la historia 2.x, gestas y títulos | 12.171 | 1.110 | 9 % |
-| Misiones de clase y de trabajo de las expansiones | 43.315 | 3.164 | 7 % |
-| Misiones secundarias de las expansiones | 44.121 | 659 | 1 % |
-| Historia principal, de **Heavensward** a **Endwalker** | 35.892 | 0 | 0 % |
+| Misiones de clase y de trabajo de las expansiones | 43.413 | 3.172 | 7 % |
+| Lo que le queda a **A Realm Reborn**: eventos, cierre de la historia 2.x, gestas y reliquias | 10.612 | 683 | 6 % |
+| Misiones secundarias de las expansiones | 44.190 | 659 | 1 % |
+| Historia principal, de **Heavensward** a **Endwalker** | 35.896 | 0 | 0 % |
 | Escenas con voz, de **Heavensward** a **Endwalker** | 18.862 | 0 | 0 % |
-| Tribus, eventos de temporada, gestas y colaboraciones de las expansiones | 59.659 | 8 | 0 % |
-| Conversaciones con NPC de servicio: mercaderes, alquileres, viajes | 28.222 | 113 | 0,4 % |
-| Resto: Hildibrand, títulos de las expansiones, Buscador de misiones, contenido 7.x | 15.344 | 330 | 2 % |
-| **Total** | **384.880** | **129.605** | **33,7 %** |
+| Tribus, eventos de temporada, gestas y colaboraciones de las expansiones | 60.036 | 8 | 0 % |
+| Conversaciones con NPC de servicio: mercaderes, alquileres, viajes | 28.777 | 113 | 0,4 % |
+| Resto: Hildibrand, títulos de las expansiones, Buscador de misiones, contenido 7.x | 15.386 | 330 | 2 % |
+| **Total** | **387.693** | **133.143** | **34,3 %** |
 
 ### Cómo leer estas cifras
 
@@ -136,10 +137,11 @@ Un personaje nuevo que empiece hoy encuentra el juego en español casi de princi
 terminar A Realm Reborn. A partir de Heavensward, la historia principal y las escenas con voz están
 a medias y el resto va apareciendo por tandas.
 
-**Hay 2.792 líneas que no cuentan en estas cifras.** Son textos que el juego arma sobre la marcha
-juntando trozos —«has entrado en *tal sitio*»— y que todavía no sabemos servir traducidos. No están
-contadas ni como hechas ni como pendientes, porque contarlas como pendientes daría a entender que
-basta con traducirlas.
+**Los textos que el juego arma sobre la marcha ya entran en la cuenta.** Son las líneas que se montan
+juntando trozos —«has entrado en *tal sitio*», «*tal sala* se sellará en *tantos* segundos»— y que
+antes ni se traducían ni se contaban. Ya están traducidas las 1.602 que aparecen en el registro de
+combate, los sellos de mazmorra y los avisos de grupo; quedan 1.190 dentro de misiones y de menús de
+servicio.
 
 **Lo que aparece como terminado está verificado**, no estimado: cada línea entregada se comprueba
 contra el texto original antes de publicarse.

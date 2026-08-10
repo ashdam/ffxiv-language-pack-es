@@ -89,37 +89,38 @@ than reinvented with every quest.
 
 ## Status
 
-Game version **2026.08.05.0000.0000**. Translated: **129,605 of 384,880 lines, 33.7%**.
+Game version **2026.08.05.0000.0000**. Translated: **133,143 of 387,693 lines, 34.3%**.
 
 ### What you will already see in Spanish
 
 | What it is | Lines | In Spanish | |
 |---|---|---|---|
-| What NPCs say when spoken to, their shouts and the balloons above their heads | 42,614 | 42,614 | **100%** |
-| Objectives and callouts inside dungeons, trials, raids and public content | 11,584 | 11,584 | **100%** |
-| Battle messages, red dungeon warnings and system text | 6,858 | 6,840 | **100%** |
+| What NPCs say when spoken to, their shouts and the balloons above their heads | 42,630 | 42,630 | **100%** |
+| Objectives and callouts inside dungeons, trials, raids and public content | 11,684 | 11,684 | **100%** |
+| Battle messages, red dungeon warnings and system text | 8,356 | 8,338 | **100%** |
 | **A Realm Reborn**: the main scenario, its scenes and every class and job quest | 29,821 | 29,812 | **100%** |
 | **Dawntrail** voiced scenes | 5,531 | 5,531 | **100%** |
+| **A Realm Reborn**: the name of every one of its quests | 1,573 | 1,573 | **100%** |
+| The tutorials the game offers you | 969 | 969 | **100%** |
 | **The Occult Crescent**, the whole story | 895 | 895 | **100%** |
-| Service menus: Grand Company, Gold Saucer and the like | 479 | 479 | **100%** |
+| Service menus: Grand Company, Gold Saucer and the like | 480 | 480 | **100%** |
 | **A Realm Reborn**: the side quests of the three city-states | 10,912 | 10,780 | **99%** |
-| **A Realm Reborn**: the allied societies | 6,263 | 5,679 | **91%** |
+| **A Realm Reborn**: the allied societies | 6,302 | 5,679 | **90%** |
 | **Dawntrail** main scenario | 11,368 | 9,807 | **86%** |
 
 ### What is under way
 
 | What it is | Lines | In Spanish | |
 |---|---|---|---|
-| The tutorials the game offers you as you start | 969 | 200 | 21% |
-| What is left of **A Realm Reborn**: events, the close of the 2.x story, chronicles and titles | 12,171 | 1,110 | 9% |
-| Class and job quests of the expansions | 43,315 | 3,164 | 7% |
-| Side quests of the expansions | 44,121 | 659 | 1% |
-| Main scenario, **Heavensward** through **Endwalker** | 35,892 | 0 | 0% |
+| Class and job quests of the expansions | 43,413 | 3,172 | 7% |
+| What is left of **A Realm Reborn**: events, the close of the 2.x story, chronicles and relics | 10,612 | 683 | 6% |
+| Side quests of the expansions | 44,190 | 659 | 1% |
+| Main scenario, **Heavensward** through **Endwalker** | 35,896 | 0 | 0% |
 | Voiced scenes, **Heavensward** through **Endwalker** | 18,862 | 0 | 0% |
-| Allied societies, seasonal events, chronicles and collaborations of the expansions | 59,659 | 8 | 0% |
-| Conversations with service NPCs: merchants, housing, travel | 28,222 | 113 | 0.4% |
-| The rest: Hildibrand, expansion quest titles, Duty Finder, 7.x content | 15,344 | 330 | 2% |
-| **Total** | **384,880** | **129,605** | **33.7%** |
+| Allied societies, seasonal events, chronicles and collaborations of the expansions | 60,036 | 8 | 0% |
+| Conversations with service NPCs: merchants, housing, travel | 28,777 | 113 | 0.4% |
+| The rest: Hildibrand, expansion quest titles, Duty Finder, 7.x content | 15,386 | 330 | 2% |
+| **Total** | **387,693** | **133,143** | **34.3%** |
 
 ### How to read these figures
 
@@ -134,9 +135,10 @@ A new character starting today will find the game in Spanish almost from beginni
 the end of A Realm Reborn. From Heavensward onwards, the main scenario and the voiced scenes are
 half done and the rest arrives in batches.
 
-**2,792 lines are counted in neither column.** They are text the game assembles on the fly out of
-pieces — «you are now in *such and such a place*» — and that we cannot yet serve translated. Counting
-them as pending would suggest that translating them is all it takes.
+**The text the game assembles on the fly now counts too.** These are the lines built out of pieces —
+«you are now in *such and such a place*», «*such a room* will be sealed off in *so many* seconds» —
+which used to be neither translated nor counted. The 1,602 of them in the battle log, the dungeon
+seals and the party notices are done; 1,190 remain, inside quests and service menus.
 
 **Whatever is shown as finished is verified**, not estimated: every delivered line is checked
 against the original text before it is published.
