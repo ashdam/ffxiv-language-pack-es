@@ -15,6 +15,19 @@ Esta traducción no modifica los ficheros originales del juego.
 >
 > Está hecha en su mayor parte con IA y supervisión humana, así que **habrá errores**.
 
+## Ejemplos
+
+El juego en marcha con este pack instalado. Nada de esto es un montaje ni una superposición: el
+juego leyó esas palabras de un fichero y las dibujó él mismo.
+
+![Diálogo de un NPC en español en la ventana de conversación](images/example1.png)
+
+![Narración de una escena en español sobre la propia escena](images/example4.png)
+
+![Un bocadillo en español sobre la cabeza de un NPC](images/example3.png)
+
+![Un aviso de combate en español durante un jefe](images/example2.png)
+
 ## Motivación
 
 Esto es un esfuerzo de la comunidad hispanohablante: gente con ilusión por la saga que quiere verla

@@ -15,6 +15,19 @@ This translation does not modify the game's original files.
 >
 > It is made mostly with AI under human supervision, so **there will be mistakes**.
 
+## Examples
+
+The live game with this pack installed. None of it is a mock-up or an overlay: the game read those
+words out of a file and drew them itself.
+
+![Spanish NPC dialogue in the Talk window](images/example1.png)
+
+![Spanish cutscene narration over the scene](images/example4.png)
+
+![A Spanish speech balloon above an NPC](images/example3.png)
+
+![A Spanish combat callout during a boss fight](images/example2.png)
+
 ## Why
 
 This is an effort by the Spanish-speaking community: people who love the series and want to see it,
@@ -74,31 +87,37 @@ than reinvented with every quest.
 
 ## Status
 
-Game version **2026.08.05.0000.0000**. Translated: **122,842 of 386,724 lines, 31.8%**.
+Game version **2026.08.05.0000.0000**. Translated: **129,605 of 384,880 lines, 33.7%**.
 
 ### What you will already see in Spanish
 
 | What it is | Lines | In Spanish | |
 |---|---|---|---|
-| What NPCs say when spoken to, their shouts and the balloons above their heads | 42,697 | 42,689 | **100%** |
-| Objectives and callouts inside dungeons, trials, raids and public content | 11,561 | 11,461 | **99%** |
-| Service menus: Grand Company, Gold Saucer and the like | 536 | 535 | **99%** |
+| What NPCs say when spoken to, their shouts and the balloons above their heads | 42,614 | 42,614 | **100%** |
+| Objectives and callouts inside dungeons, trials, raids and public content | 11,584 | 11,584 | **100%** |
+| Battle messages, red dungeon warnings and system text | 6,858 | 6,840 | **100%** |
+| **A Realm Reborn**: the main scenario, its scenes and every class and job quest | 29,821 | 29,812 | **100%** |
+| **Dawntrail** voiced scenes | 5,531 | 5,531 | **100%** |
+| **The Occult Crescent**, the whole story | 895 | 895 | **100%** |
+| Service menus: Grand Company, Gold Saucer and the like | 479 | 479 | **100%** |
+| **A Realm Reborn**: the side quests of the three city-states | 10,912 | 10,780 | **99%** |
+| **A Realm Reborn**: the allied societies | 6,263 | 5,679 | **91%** |
 | **Dawntrail** main scenario | 11,368 | 9,807 | **86%** |
-| Battle messages, red dungeon warnings and system text | 8,356 | 6,845 | **82%** |
 
 ### What is under way
 
 | What it is | Lines | In Spanish | |
 |---|---|---|---|
-| Class and job quests | 58,921 | 18,563 | 32% |
-| Voiced scenes | 25,915 | 7,053 | 27% |
-| Main scenario, **A Realm Reborn** through **Endwalker** | 48,795 | 12,899 | 26% |
-| Side quests | 71,073 | 10,087 | 14% |
-| Allied societies, seasonal events, chronicles and collaborations | 72,774 | 2,311 | 3% |
-| Quest titles in the journal | 5,356 | 477 | 9% |
-| Conversations with service NPCs: merchants, housing, travel | 28,777 | 113 | 0.4% |
-| Duty Finder descriptions | 595 | 2 | 0.3% |
-| **Total** | **386,724** | **122,842** | **31.8%** |
+| The tutorials the game offers you as you start | 969 | 200 | 21% |
+| What is left of **A Realm Reborn**: events, the close of the 2.x story, chronicles and titles | 12,171 | 1,110 | 9% |
+| Class and job quests of the expansions | 43,315 | 3,164 | 7% |
+| Side quests of the expansions | 44,121 | 659 | 1% |
+| Main scenario, **Heavensward** through **Endwalker** | 35,892 | 0 | 0% |
+| Voiced scenes, **Heavensward** through **Endwalker** | 18,862 | 0 | 0% |
+| Allied societies, seasonal events, chronicles and collaborations of the expansions | 59,659 | 8 | 0% |
+| Conversations with service NPCs: merchants, housing, travel | 28,222 | 113 | 0.4% |
+| The rest: Hildibrand, expansion quest titles, Duty Finder, 7.x content | 15,344 | 330 | 2% |
+| **Total** | **384,880** | **129,605** | **33.7%** |
 
 ### How to read these figures
 
@@ -112,6 +131,10 @@ its callouts.
 A new character starting today will find the game in Spanish almost from beginning to end through
 the end of A Realm Reborn. From Heavensward onwards, the main scenario and the voiced scenes are
 half done and the rest arrives in batches.
+
+**2,792 lines are counted in neither column.** They are text the game assembles on the fly out of
+pieces — «you are now in *such and such a place*» — and that we cannot yet serve translated. Counting
+them as pending would suggest that translating them is all it takes.
 
 **Whatever is shown as finished is verified**, not estimated: every delivered line is checked
 against the original text before it is published.
