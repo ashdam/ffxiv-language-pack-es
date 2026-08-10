@@ -89,7 +89,7 @@ than reinvented with every quest.
 
 ## Status
 
-Game version **2026.08.05.0000.0000**. Translated: **133,143 of 387,693 lines, 34.3%**.
+Game version **2026.08.05.0000.0000**. Translated: **134,773 of 389,323 lines, 34.6%**.
 
 ### What you will already see in Spanish
 
@@ -101,6 +101,7 @@ Game version **2026.08.05.0000.0000**. Translated: **133,143 of 387,693 lines, 3
 | **A Realm Reborn**: the main scenario, its scenes and every class and job quest | 29,821 | 29,812 | **100%** |
 | **Dawntrail** voiced scenes | 5,531 | 5,531 | **100%** |
 | **A Realm Reborn**: the name of every one of its quests | 1,573 | 1,573 | **100%** |
+| The in-game guides: Occult Crescent, Palace of the Dead, mahjong, housing, Bozja | 1,630 | 1,630 | **100%** |
 | The tutorials the game offers you | 969 | 969 | **100%** |
 | **The Occult Crescent**, the whole story | 895 | 895 | **100%** |
 | Service menus: Grand Company, Gold Saucer and the like | 480 | 480 | **100%** |
@@ -120,7 +121,7 @@ Game version **2026.08.05.0000.0000**. Translated: **133,143 of 387,693 lines, 3
 | Allied societies, seasonal events, chronicles and collaborations of the expansions | 60,036 | 8 | 0% |
 | Conversations with service NPCs: merchants, housing, travel | 28,777 | 113 | 0.4% |
 | The rest: Hildibrand, expansion quest titles, Duty Finder, 7.x content | 15,386 | 330 | 2% |
-| **Total** | **387,693** | **133,143** | **34.3%** |
+| **Total** | **389,323** | **134,773** | **34.6%** |
 
 ### How to read these figures
 

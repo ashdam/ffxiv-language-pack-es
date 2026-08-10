@@ -91,7 +91,7 @@ lugar de reinventarse en cada misión.
 
 ## Estado
 
-Versión de juego **2026.08.05.0000.0000**. Traducidas **133.143 de 387.693 líneas, un 34,3 %**.
+Versión de juego **2026.08.05.0000.0000**. Traducidas **134.773 de 389.323 líneas, un 34,6 %**.
 
 ### Lo que ya vas a ver en español
 
@@ -103,6 +103,7 @@ Versión de juego **2026.08.05.0000.0000**. Traducidas **133.143 de 387.693 lín
 | **A Realm Reborn**: la historia principal, sus escenas y todas las misiones de clase y de trabajo | 29.821 | 29.812 | **100 %** |
 | Escenas con voz de **Dawntrail** | 5.531 | 5.531 | **100 %** |
 | **A Realm Reborn**: los nombres de todas sus misiones | 1.573 | 1.573 | **100 %** |
+| Las guías del juego: Occult Crescent, Palacio de los Muertos, mahjong, viviendas, Bozja | 1.630 | 1.630 | **100 %** |
 | Los tutoriales que el juego te ofrece | 969 | 969 | **100 %** |
 | **The Occult Crescent**, la historia completa | 895 | 895 | **100 %** |
 | Menús de servicios: Gran Compañía, Gold Saucer y similares | 480 | 480 | **100 %** |
@@ -122,7 +123,7 @@ Versión de juego **2026.08.05.0000.0000**. Traducidas **133.143 de 387.693 lín
 | Tribus, eventos de temporada, gestas y colaboraciones de las expansiones | 60.036 | 8 | 0 % |
 | Conversaciones con NPC de servicio: mercaderes, alquileres, viajes | 28.777 | 113 | 0,4 % |
 | Resto: Hildibrand, títulos de las expansiones, Buscador de misiones, contenido 7.x | 15.386 | 330 | 2 % |
-| **Total** | **387.693** | **133.143** | **34,3 %** |
+| **Total** | **389.323** | **134.773** | **34,6 %** |
 
 ### Cómo leer estas cifras
 
