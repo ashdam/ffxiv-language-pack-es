@@ -76,31 +76,37 @@ lugar de reinventarse en cada misión.
 
 ## Estado
 
-Versión de juego **2026.08.05.0000.0000**. Traducidas **122.842 de 386.724 líneas, un 31,8 %**.
+Versión de juego **2026.08.05.0000.0000**. Traducidas **129.605 de 384.880 líneas, un 33,7 %**.
 
 ### Lo que ya vas a ver en español
 
 | Qué es | Líneas | En español | |
 |---|---|---|---|
-| Lo que dicen los NPC al hablarles, sus gritos y los bocadillos sobre su cabeza | 42.697 | 42.689 | **100 %** |
-| Objetivos y avisos dentro de mazmorras, gestas, incursiones y contenido público | 11.561 | 11.461 | **99 %** |
-| Menús de servicios: Gran Compañía, Gold Saucer y similares | 536 | 535 | **99 %** |
+| Lo que dicen los NPC al hablarles, sus gritos y los bocadillos sobre su cabeza | 42.614 | 42.614 | **100 %** |
+| Objetivos y avisos dentro de mazmorras, gestas, incursiones y contenido público | 11.584 | 11.584 | **100 %** |
+| Mensajes de combate, avisos rojos de mazmorra y textos del sistema | 6.858 | 6.840 | **100 %** |
+| **A Realm Reborn**: la historia principal, sus escenas y todas las misiones de clase y de trabajo | 29.821 | 29.812 | **100 %** |
+| Escenas con voz de **Dawntrail** | 5.531 | 5.531 | **100 %** |
+| **The Occult Crescent**, la historia completa | 895 | 895 | **100 %** |
+| Menús de servicios: Gran Compañía, Gold Saucer y similares | 479 | 479 | **100 %** |
+| **A Realm Reborn**: las misiones secundarias de las tres ciudades | 10.912 | 10.780 | **99 %** |
+| **A Realm Reborn**: las tribus aliadas | 6.263 | 5.679 | **91 %** |
 | Historia principal de **Dawntrail** | 11.368 | 9.807 | **86 %** |
-| Mensajes de combate, avisos rojos de mazmorra y textos del sistema | 8.356 | 6.845 | **82 %** |
 
 ### Lo que está en marcha
 
 | Qué es | Líneas | En español | |
 |---|---|---|---|
-| Misiones de clase y de trabajo | 58.921 | 18.563 | 32 % |
-| Escenas con voz | 25.915 | 7.053 | 27 % |
-| Historia principal, de **A Realm Reborn** a **Endwalker** | 48.795 | 12.899 | 26 % |
-| Misiones secundarias | 71.073 | 10.087 | 14 % |
-| Tribus aliadas, eventos de temporada, crónicas y colaboraciones | 72.774 | 2.311 | 3 % |
-| Títulos de las misiones en el diario | 5.356 | 477 | 9 % |
-| Conversaciones con NPC de servicio: mercaderes, alquileres, viajes | 28.777 | 113 | 0,4 % |
-| Descripciones del Buscador de misiones | 595 | 2 | 0,3 % |
-| **Total** | **386.724** | **122.842** | **31,8 %** |
+| Los tutoriales que el juego te ofrece al empezar | 969 | 200 | 21 % |
+| Lo que le queda a **A Realm Reborn**: eventos, cierre de la historia 2.x, gestas y títulos | 12.171 | 1.110 | 9 % |
+| Misiones de clase y de trabajo de las expansiones | 43.315 | 3.164 | 7 % |
+| Misiones secundarias de las expansiones | 44.121 | 659 | 1 % |
+| Historia principal, de **Heavensward** a **Endwalker** | 35.892 | 0 | 0 % |
+| Escenas con voz, de **Heavensward** a **Endwalker** | 18.862 | 0 | 0 % |
+| Tribus, eventos de temporada, gestas y colaboraciones de las expansiones | 59.659 | 8 | 0 % |
+| Conversaciones con NPC de servicio: mercaderes, alquileres, viajes | 28.222 | 113 | 0,4 % |
+| Resto: Hildibrand, títulos de las expansiones, Buscador de misiones, contenido 7.x | 15.344 | 330 | 2 % |
+| **Total** | **384.880** | **129.605** | **33,7 %** |
 
 ### Cómo leer estas cifras
 
@@ -114,6 +120,11 @@ sus avisos.
 Un personaje nuevo que empiece hoy encuentra el juego en español casi de principio a fin hasta
 terminar A Realm Reborn. A partir de Heavensward, la historia principal y las escenas con voz están
 a medias y el resto va apareciendo por tandas.
+
+**Hay 2.792 líneas que no cuentan en estas cifras.** Son textos que el juego arma sobre la marcha
+juntando trozos —«has entrado en *tal sitio*»— y que todavía no sabemos servir traducidos. No están
+contadas ni como hechas ni como pendientes, porque contarlas como pendientes daría a entender que
+basta con traducirlas.
 
 **Lo que aparece como terminado está verificado**, no estimado: cada línea entregada se comprueba
 contra el texto original antes de publicarse.
