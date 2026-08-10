@@ -89,15 +89,15 @@ than reinvented with every quest.
 
 ## Status
 
-Game version **2026.08.05.0000.0000**. Translated: **134,773 of 389,323 lines, 34.6%**.
+Game version **2026.08.05.0000.0000**. Translated: **134,904 of 389,449 lines, 34.6%**.
 
 ### What you will already see in Spanish
 
 | What it is | Lines | In Spanish | |
 |---|---|---|---|
-| What NPCs say when spoken to, their shouts and the balloons above their heads | 42,630 | 42,630 | **100%** |
+| What NPCs say when spoken to, their shouts and the balloons above their heads | 42,647 | 42,647 | **100%** |
 | Objectives and callouts inside dungeons, trials, raids and public content | 11,684 | 11,684 | **100%** |
-| Battle messages, red dungeon warnings and system text | 8,356 | 8,338 | **100%** |
+| Battle messages, red dungeon warnings and system text | 8,465 | 8,452 | **100%** |
 | **A Realm Reborn**: the main scenario, its scenes and every class and job quest | 29,821 | 29,812 | **100%** |
 | **Dawntrail** voiced scenes | 5,531 | 5,531 | **100%** |
 | **A Realm Reborn**: the name of every one of its quests | 1,573 | 1,573 | **100%** |
@@ -121,7 +121,7 @@ Game version **2026.08.05.0000.0000**. Translated: **134,773 of 389,323 lines, 3
 | Allied societies, seasonal events, chronicles and collaborations of the expansions | 60,036 | 8 | 0% |
 | Conversations with service NPCs: merchants, housing, travel | 28,777 | 113 | 0.4% |
 | The rest: Hildibrand, expansion quest titles, Duty Finder, 7.x content | 15,386 | 330 | 2% |
-| **Total** | **389,323** | **134,773** | **34.6%** |
+| **Total** | **389,449** | **134,904** | **34.6%** |
 
 ### How to read these figures
 
@@ -138,8 +138,13 @@ half done and the rest arrives in batches.
 
 **The text the game assembles on the fly now counts too.** These are the lines built out of pieces —
 «you are now in *such and such a place*», «*such a room* will be sealed off in *so many* seconds» —
-which used to be neither translated nor counted. The 1,602 of them in the battle log, the dungeon
+which used to be neither translated nor counted. The 1,685 of them in the battle log, the dungeon
 seals and the party notices are done; 1,190 remain, inside quests and service menus.
+
+**And 126 lines no extraction had ever seen.** These are the ones without a single word outside a
+conditional — «You obtain 5 earth clusters», «You desynthesize…», the emote log, the tutorials that
+change depending on whether you play with mouse or gamepad. The filter that drops textless columns
+had been dropping these too. They are in now, and translated.
 
 **Whatever is shown as finished is verified**, not estimated: every delivered line is checked
 against the original text before it is published.

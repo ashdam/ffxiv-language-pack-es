@@ -91,15 +91,15 @@ lugar de reinventarse en cada misión.
 
 ## Estado
 
-Versión de juego **2026.08.05.0000.0000**. Traducidas **134.773 de 389.323 líneas, un 34,6 %**.
+Versión de juego **2026.08.05.0000.0000**. Traducidas **134.904 de 389.449 líneas, un 34,6 %**.
 
 ### Lo que ya vas a ver en español
 
 | Qué es | Líneas | En español | |
 |---|---|---|---|
-| Lo que dicen los NPC al hablarles, sus gritos y los bocadillos sobre su cabeza | 42.630 | 42.630 | **100 %** |
+| Lo que dicen los NPC al hablarles, sus gritos y los bocadillos sobre su cabeza | 42.647 | 42.647 | **100 %** |
 | Objetivos y avisos dentro de mazmorras, gestas, incursiones y contenido público | 11.684 | 11.684 | **100 %** |
-| Mensajes de combate, avisos rojos de mazmorra y textos del sistema | 8.356 | 8.338 | **100 %** |
+| Mensajes de combate, avisos rojos de mazmorra y textos del sistema | 8.465 | 8.452 | **100 %** |
 | **A Realm Reborn**: la historia principal, sus escenas y todas las misiones de clase y de trabajo | 29.821 | 29.812 | **100 %** |
 | Escenas con voz de **Dawntrail** | 5.531 | 5.531 | **100 %** |
 | **A Realm Reborn**: los nombres de todas sus misiones | 1.573 | 1.573 | **100 %** |
@@ -123,7 +123,7 @@ Versión de juego **2026.08.05.0000.0000**. Traducidas **134.773 de 389.323 lín
 | Tribus, eventos de temporada, gestas y colaboraciones de las expansiones | 60.036 | 8 | 0 % |
 | Conversaciones con NPC de servicio: mercaderes, alquileres, viajes | 28.777 | 113 | 0,4 % |
 | Resto: Hildibrand, títulos de las expansiones, Buscador de misiones, contenido 7.x | 15.386 | 330 | 2 % |
-| **Total** | **389.323** | **134.773** | **34,6 %** |
+| **Total** | **389.449** | **134.904** | **34,6 %** |
 
 ### Cómo leer estas cifras
 
@@ -140,9 +140,14 @@ a medias y el resto va apareciendo por tandas.
 
 **Los textos que el juego arma sobre la marcha ya entran en la cuenta.** Son las líneas que se montan
 juntando trozos —«has entrado en *tal sitio*», «*tal sala* se sellará en *tantos* segundos»— y que
-antes ni se traducían ni se contaban. Ya están traducidas las 1.602 que aparecen en el registro de
+antes ni se traducían ni se contaban. Ya están traducidas las 1.685 que aparecen en el registro de
 combate, los sellos de mazmorra y los avisos de grupo; quedan 1.190 dentro de misiones y de menús de
 servicio.
+
+**Y 126 líneas que ninguna extracción había visto nunca.** Son las que no tienen ni una palabra
+fuera de un condicional —«Obtienes 5 earth clusters», «Desintetizas…», los emotes del registro, los
+tutoriales que cambian según juegues con ratón o con mando—, y el filtro que descarta las columnas
+sin texto se las llevaba por delante. Ya están dentro y traducidas.
 
 **Lo que aparece como terminado está verificado**, no estimado: cada línea entregada se comprueba
 contra el texto original antes de publicarse.
