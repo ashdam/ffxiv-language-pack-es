@@ -101,6 +101,8 @@ Game version **2026.08.05.0000.0000**. Translated: **140,133 of 389,449 lines, 3
 | **A Realm Reborn**: the main scenario, its scenes and every class and job quest | 29,821 | 29,812 | **100%** |
 | **Dawntrail** voiced scenes | 5,531 | 5,531 | **100%** |
 | **A Realm Reborn**: the name of every one of its quests | 1,573 | 1,573 | **100%** |
+| **A Realm Reborn**: the close of the 2.x story, up to Heavensward's door | 3,777 | 3,774 | **100%** |
+| **A Realm Reborn**: the Crystal Tower, the Binding Coil of Bahamut and the primal hard modes | 1,741 | 1,741 | **100%** |
 | The in-game guides: Occult Crescent, Palace of the Dead, mahjong, housing, Bozja | 1,630 | 1,630 | **100%** |
 | The tutorials the game offers you | 969 | 969 | **100%** |
 | **The Occult Crescent**, the whole story | 895 | 895 | **100%** |
@@ -114,7 +116,7 @@ Game version **2026.08.05.0000.0000**. Translated: **140,133 of 389,449 lines, 3
 | What it is | Lines | In Spanish | |
 |---|---|---|---|
 | Class and job quests of the expansions | 43,413 | 3,172 | 7% |
-| What is left of **A Realm Reborn**: seasonal events and relics | 10,612 | 5,912 | 56% |
+| What is left of **A Realm Reborn**: seasonal events, zodiac weapons and odd side quests | 5,094 | 397 | 8% |
 | Side quests of the expansions | 44,190 | 659 | 1% |
 | Main scenario, **Heavensward** through **Endwalker** | 35,896 | 0 | 0% |
 | Voiced scenes, **Heavensward** through **Endwalker** | 18,862 | 0 | 0% |

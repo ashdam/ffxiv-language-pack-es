@@ -103,6 +103,8 @@ Versión de juego **2026.08.05.0000.0000**. Traducidas **140.133 de 389.449 lín
 | **A Realm Reborn**: la historia principal, sus escenas y todas las misiones de clase y de trabajo | 29.821 | 29.812 | **100 %** |
 | Escenas con voz de **Dawntrail** | 5.531 | 5.531 | **100 %** |
 | **A Realm Reborn**: los nombres de todas sus misiones | 1.573 | 1.573 | **100 %** |
+| **A Realm Reborn**: el cierre de la historia 2.x, hasta la puerta de Heavensward | 3.777 | 3.774 | **100 %** |
+| **A Realm Reborn**: la Torre de Cristal, la Espiral de Bahamut y las primales en difícil | 1.741 | 1.741 | **100 %** |
 | Las guías del juego: Occult Crescent, Palacio de los Muertos, mahjong, viviendas, Bozja | 1.630 | 1.630 | **100 %** |
 | Los tutoriales que el juego te ofrece | 969 | 969 | **100 %** |
 | **The Occult Crescent**, la historia completa | 895 | 895 | **100 %** |
@@ -116,7 +118,7 @@ Versión de juego **2026.08.05.0000.0000**. Traducidas **140.133 de 389.449 lín
 | Qué es | Líneas | En español | |
 |---|---|---|---|
 | Misiones de clase y de trabajo de las expansiones | 43.413 | 3.172 | 7 % |
-| Lo que le queda a **A Realm Reborn**: eventos de temporada y reliquias | 10.612 | 5.912 | 56 % |
+| Lo que le queda a **A Realm Reborn**: eventos de temporada, armas del zodiaco y misiones sueltas | 5.094 | 397 | 8 % |
 | Misiones secundarias de las expansiones | 44.190 | 659 | 1 % |
 | Historia principal, de **Heavensward** a **Endwalker** | 35.896 | 0 | 0 % |
 | Escenas con voz, de **Heavensward** a **Endwalker** | 18.862 | 0 | 0 % |
