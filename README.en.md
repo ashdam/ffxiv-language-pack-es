@@ -89,7 +89,7 @@ than reinvented with every quest.
 
 ## Status
 
-Game version **2026.08.05.0000.0000**. Translated: **138,668 of 389,449 lines, 35.6%**.
+Game version **2026.08.05.0000.0000**. Translated: **140,133 of 389,449 lines, 36.0%**.
 
 ### What you will already see in Spanish
 
@@ -114,14 +114,14 @@ Game version **2026.08.05.0000.0000**. Translated: **138,668 of 389,449 lines, 3
 | What it is | Lines | In Spanish | |
 |---|---|---|---|
 | Class and job quests of the expansions | 43,413 | 3,172 | 7% |
-| What is left of **A Realm Reborn**: seasonal events, chronicles and relics | 10,612 | 4,447 | 42% |
+| What is left of **A Realm Reborn**: seasonal events and relics | 10,612 | 5,912 | 56% |
 | Side quests of the expansions | 44,190 | 659 | 1% |
 | Main scenario, **Heavensward** through **Endwalker** | 35,896 | 0 | 0% |
 | Voiced scenes, **Heavensward** through **Endwalker** | 18,862 | 0 | 0% |
 | Allied societies, seasonal events, chronicles and collaborations of the expansions | 60,036 | 8 | 0% |
 | Conversations with service NPCs: merchants, housing, travel | 28,777 | 113 | 0.4% |
 | The rest: Hildibrand, expansion quest titles, Duty Finder, 7.x content | 15,386 | 330 | 2% |
-| **Total** | **389,449** | **138,668** | **35.6%** |
+| **Total** | **389,449** | **140,133** | **36.0%** |
 
 ### How to read these figures
 

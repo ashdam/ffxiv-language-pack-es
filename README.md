@@ -91,7 +91,7 @@ lugar de reinventarse en cada misión.
 
 ## Estado
 
-Versión de juego **2026.08.05.0000.0000**. Traducidas **138.668 de 389.449 líneas, un 35,6 %**.
+Versión de juego **2026.08.05.0000.0000**. Traducidas **140.133 de 389.449 líneas, un 36,0 %**.
 
 ### Lo que ya vas a ver en español
 
@@ -116,14 +116,14 @@ Versión de juego **2026.08.05.0000.0000**. Traducidas **138.668 de 389.449 lín
 | Qué es | Líneas | En español | |
 |---|---|---|---|
 | Misiones de clase y de trabajo de las expansiones | 43.413 | 3.172 | 7 % |
-| Lo que le queda a **A Realm Reborn**: eventos de temporada, gestas y reliquias | 10.612 | 4.447 | 42 % |
+| Lo que le queda a **A Realm Reborn**: eventos de temporada y reliquias | 10.612 | 5.912 | 56 % |
 | Misiones secundarias de las expansiones | 44.190 | 659 | 1 % |
 | Historia principal, de **Heavensward** a **Endwalker** | 35.896 | 0 | 0 % |
 | Escenas con voz, de **Heavensward** a **Endwalker** | 18.862 | 0 | 0 % |
 | Tribus, eventos de temporada, gestas y colaboraciones de las expansiones | 60.036 | 8 | 0 % |
 | Conversaciones con NPC de servicio: mercaderes, alquileres, viajes | 28.777 | 113 | 0,4 % |
 | Resto: Hildibrand, títulos de las expansiones, Buscador de misiones, contenido 7.x | 15.386 | 330 | 2 % |
-| **Total** | **389.449** | **138.668** | **35,6 %** |
+| **Total** | **389.449** | **140.133** | **36,0 %** |
 
 ### Cómo leer estas cifras
 
