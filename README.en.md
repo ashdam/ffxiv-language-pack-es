@@ -87,44 +87,45 @@ than reinvented with every quest.
 
 ## Status
 
-Game version **2026.08.05.0000.0000**. Translated: **143,407 of 403,870 lines, 35.5%**.
+Game version **2026.08.05.0000.0000**. Translated: **151,329 of 403,870 lines, 37.5%**.
 
-**A Realm Reborn is finished but for its seasonal events.** What the table still counts as pending
-inside ARR is development leavings the game never shows.
+
+
 
 ### What you will already see in Spanish
 
 | What it is | Lines | In Spanish | |
 |---|---|---|---|
+| **A Realm Reborn, the whole of it** | 59,220 | 59,109 | **100%** |
 | What NPCs say when spoken to, their shouts, the balloons, dungeon objectives and service menus | 56,441 | 56,441 | **100%** |
-| **A Realm Reborn** entire, but for its seasonal events | 55,636 | 55,527 | **100%** |
 | Battle messages, red dungeon warnings and system text | 8,465 | 8,452 | **100%** |
+| The name of every expansion quest, Heavensward through Dawntrail | 3,783 | 3,783 | **100%** |
 | **The Occult Crescent**: the story and its phantom weapon line | 1,806 | 1,806 | **100%** |
 | The tutorials the game offers you | 969 | 969 | **100%** |
+| The Duty Finder descriptions | 595 | 595 | **100%** |
 | **Dawntrail**: main scenario and voiced scenes | 16,899 | 15,338 | **91%** |
 
-Inside **A Realm Reborn** that means the main scenario and its scenes, every class and job quest, the
-side quests of the three city-states, the allied societies, the zodiac weapons, the Crystal Tower and
-the Binding Coil of Bahamut, the close of the 2.x story and the name of every one of its quests. What
-still counts as pending there is development leavings the game never shows.
+**A Realm Reborn is finished, all of it**: the main scenario and its scenes, every class and job
+quest, the side quests of the three city-states, the allied societies, the zodiac weapons, the
+Crystal Tower and the Binding Coil of Bahamut, the close of the 2.x story and **all eight seasonal
+events**. The few lines the table still counts as pending there are development leavings the game
+never shows.
 
 ### What is under way
 
 | What it is | Lines | In Spanish | |
 |---|---|---|---|
 | Class and job quests of the expansions | 43,413 | 3,172 | 7% |
-| Interface labels and the title screen | 14,421 | 578 | 4% |
+| Interface labels and the title screen | 14,421 | 592 | 4% |
 | **Hildibrand** | 7,682 | 278 | 4% |
 | Side quests of the expansions | 44,190 | 659 | 1% |
-| Quest names of the expansions | 3,783 | 50 | 1% |
 | Conversations with service NPCs: merchants, housing, travel | 28,777 | 113 | 0.4% |
-| Duty Finder descriptions and development leavings | 703 | 2 | 0.3% |
 | Allied societies, seasonal events, chronicles and relic weapons of the expansions | 59,125 | 22 | 0% |
 | Main scenario, **Heavensward** through **Endwalker** | 35,896 | 0 | 0% |
 | Voiced scenes, **Heavensward** through **Endwalker** | 18,862 | 0 | 0% |
-| **A Realm Reborn** seasonal events | 3,584 | 0 | 0% |
 | Live content: the Arcadion and Cosmic Exploration | 3,218 | 0 | 0% |
-| **Total** | **403,870** | **143,407** | **35.5%** |
+| Development leavings the player never sees | 108 | 0 | 0% |
+| **Total** | **403,870** | **151,329** | **37.5%** |
 
 ### How to read these figures
 
