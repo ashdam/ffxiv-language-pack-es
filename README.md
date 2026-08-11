@@ -101,11 +101,10 @@ Versión de juego **2026.08.05.0000.0000**. Traducidas **156.650 de 411.468 lín
 | **A Realm Reborn, entera** | 59.220 | 59.109 | **100 %** |
 | Lo que dicen los NPC al hablarles, sus gritos, los bocadillos, los objetivos de mazmorra y los menús de servicio | 56.441 | 56.441 | **100 %** |
 | Mensajes de combate, avisos rojos de mazmorra y textos del sistema | 8.465 | 8.452 | **100 %** |
-| El nombre de cada misión de las expansiones, de Heavensward a Dawntrail | 3.783 | 3.783 | **100 %** |
+| El nombre de las misiones: en el diario, en el marcador y en la lista de la posada | 11.381 | 9.104 | **80 %** |
 | **The Occult Crescent**: la historia y su línea de armas fantasma | 1.806 | 1.806 | **100 %** |
 | Los tutoriales que el juego te ofrece | 969 | 969 | **100 %** |
 | Las descripciones del Buscador de misiones | 595 | 595 | **100 %** |
-| «The Unending Journey»: la lista de escenas que puedes revivir en la posada | 7.598 | 5.321 | **70 %** |
 | **Dawntrail**: historia principal y escenas con voz | 16.899 | 15.338 | **91 %** |
 
 **A Realm Reborn está terminada del todo**: la historia principal y sus escenas, todas las misiones

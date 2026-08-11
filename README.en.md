@@ -99,11 +99,10 @@ Game version **2026.08.05.0000.0000**. Translated: **156,650 of 411,468 lines, 3
 | **A Realm Reborn, the whole of it** | 59,220 | 59,109 | **100%** |
 | What NPCs say when spoken to, their shouts, the balloons, dungeon objectives and service menus | 56,441 | 56,441 | **100%** |
 | Battle messages, red dungeon warnings and system text | 8,465 | 8,452 | **100%** |
-| The name of every expansion quest, Heavensward through Dawntrail | 3,783 | 3,783 | **100%** |
+| Quest names: in the journal, on the tracker, and in the list at the inn | 11,381 | 9,104 | **80%** |
 | **The Occult Crescent**: the story and its phantom weapon line | 1,806 | 1,806 | **100%** |
 | The tutorials the game offers you | 969 | 969 | **100%** |
 | The Duty Finder descriptions | 595 | 595 | **100%** |
-| «The Unending Journey»: the list of scenes you can relive at the inn | 7,598 | 5,321 | **70%** |
 | **Dawntrail**: main scenario and voiced scenes | 16,899 | 15,338 | **91%** |
 
 **A Realm Reborn is finished, all of it**: the main scenario and its scenes, every class and job
