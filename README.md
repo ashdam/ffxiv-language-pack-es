@@ -89,7 +89,7 @@ lugar de reinventarse en cada misión.
 
 ## Estado
 
-Versión de juego **2026.08.05.0000.0000**. Traducidas **151.329 de 403.870 líneas, un 37,5 %**.
+Versión de juego **2026.08.05.0000.0000**. Traducidas **156.650 de 411.468 líneas, un 38,1 %**.
 
 
 
@@ -105,6 +105,7 @@ Versión de juego **2026.08.05.0000.0000**. Traducidas **151.329 de 403.870 lín
 | **The Occult Crescent**: la historia y su línea de armas fantasma | 1.806 | 1.806 | **100 %** |
 | Los tutoriales que el juego te ofrece | 969 | 969 | **100 %** |
 | Las descripciones del Buscador de misiones | 595 | 595 | **100 %** |
+| El Viaje Interminable: la lista de misiones que puedes revivir en la posada | 7.598 | 5.321 | **70 %** |
 | **Dawntrail**: historia principal y escenas con voz | 16.899 | 15.338 | **91 %** |
 
 **A Realm Reborn está terminada del todo**: la historia principal y sus escenas, todas las misiones
@@ -127,7 +128,7 @@ desarrollo que el juego nunca enseña.
 | Escenas con voz, de **Heavensward** a **Endwalker** | 18.862 | 0 | 0 % |
 | Contenido actual: el Arcadion y Exploración Cósmica | 3.218 | 0 | 0 % |
 | Restos de desarrollo que el jugador nunca ve | 108 | 0 | 0 % |
-| **Total** | **403.870** | **151.329** | **37,5 %** |
+| **Total** | **411.468** | **156.650** | **38,1 %** |
 
 ### Cómo leer estas cifras
 

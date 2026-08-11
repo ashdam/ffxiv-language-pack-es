@@ -87,7 +87,7 @@ than reinvented with every quest.
 
 ## Status
 
-Game version **2026.08.05.0000.0000**. Translated: **151,329 of 403,870 lines, 37.5%**.
+Game version **2026.08.05.0000.0000**. Translated: **156,650 of 411,468 lines, 38.1%**.
 
 
 
@@ -103,6 +103,7 @@ Game version **2026.08.05.0000.0000**. Translated: **151,329 of 403,870 lines, 3
 | **The Occult Crescent**: the story and its phantom weapon line | 1,806 | 1,806 | **100%** |
 | The tutorials the game offers you | 969 | 969 | **100%** |
 | The Duty Finder descriptions | 595 | 595 | **100%** |
+| The Unending Journey: the list of quests you can relive at the inn | 7,598 | 5,321 | **70%** |
 | **Dawntrail**: main scenario and voiced scenes | 16,899 | 15,338 | **91%** |
 
 **A Realm Reborn is finished, all of it**: the main scenario and its scenes, every class and job
@@ -125,7 +126,7 @@ never shows.
 | Voiced scenes, **Heavensward** through **Endwalker** | 18,862 | 0 | 0% |
 | Live content: the Arcadion and Cosmic Exploration | 3,218 | 0 | 0% |
 | Development leavings the player never sees | 108 | 0 | 0% |
-| **Total** | **403,870** | **151,329** | **37.5%** |
+| **Total** | **411,468** | **156,650** | **38.1%** |
 
 ### How to read these figures
 
