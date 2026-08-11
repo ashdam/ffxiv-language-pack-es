@@ -87,41 +87,44 @@ than reinvented with every quest.
 
 ## Status
 
-Game version **2026.08.05.0000.0000**. Translated: **140,133 of 389,449 lines, 36.0%**.
+Game version **2026.08.05.0000.0000**. Translated: **143,407 of 403,870 lines, 35.5%**.
+
+**A Realm Reborn is finished but for its seasonal events.** What the table still counts as pending
+inside ARR is development leavings the game never shows.
 
 ### What you will already see in Spanish
 
 | What it is | Lines | In Spanish | |
 |---|---|---|---|
-| What NPCs say when spoken to, their shouts and the balloons above their heads | 42,647 | 42,647 | **100%** |
-| Objectives and callouts inside dungeons, trials, raids and public content | 11,684 | 11,684 | **100%** |
+| What NPCs say when spoken to, their shouts, the balloons, dungeon objectives and service menus | 56,441 | 56,441 | **100%** |
+| **A Realm Reborn** entire, but for its seasonal events | 55,636 | 55,527 | **100%** |
 | Battle messages, red dungeon warnings and system text | 8,465 | 8,452 | **100%** |
-| **A Realm Reborn**: the main scenario, its scenes and every class and job quest | 29,821 | 29,812 | **100%** |
-| **Dawntrail** voiced scenes | 5,531 | 5,531 | **100%** |
-| **A Realm Reborn**: the name of every one of its quests | 1,573 | 1,573 | **100%** |
-| **A Realm Reborn**: the close of the 2.x story, up to Heavensward's door | 3,777 | 3,774 | **100%** |
-| **A Realm Reborn**: the Crystal Tower, the Binding Coil of Bahamut and the primal hard modes | 1,741 | 1,741 | **100%** |
-| The in-game guides: Occult Crescent, Palace of the Dead, mahjong, housing, Bozja | 1,630 | 1,630 | **100%** |
+| **The Occult Crescent**: the story and its phantom weapon line | 1,806 | 1,806 | **100%** |
 | The tutorials the game offers you | 969 | 969 | **100%** |
-| **The Occult Crescent**, the whole story | 895 | 895 | **100%** |
-| Service menus: Grand Company, Gold Saucer and the like | 480 | 480 | **100%** |
-| **A Realm Reborn**: the side quests of the three city-states | 10,912 | 10,780 | **99%** |
-| **A Realm Reborn**: the allied societies | 6,302 | 5,679 | **90%** |
-| **Dawntrail** main scenario | 11,368 | 9,807 | **86%** |
+| **Dawntrail**: main scenario and voiced scenes | 16,899 | 15,338 | **91%** |
+
+Inside **A Realm Reborn** that means the main scenario and its scenes, every class and job quest, the
+side quests of the three city-states, the allied societies, the zodiac weapons, the Crystal Tower and
+the Binding Coil of Bahamut, the close of the 2.x story and the name of every one of its quests. What
+still counts as pending there is development leavings the game never shows.
 
 ### What is under way
 
 | What it is | Lines | In Spanish | |
 |---|---|---|---|
 | Class and job quests of the expansions | 43,413 | 3,172 | 7% |
-| What is left of **A Realm Reborn**: seasonal events, zodiac weapons and odd side quests | 5,094 | 397 | 8% |
+| Interface labels and the title screen | 14,421 | 578 | 4% |
+| **Hildibrand** | 7,682 | 278 | 4% |
 | Side quests of the expansions | 44,190 | 659 | 1% |
+| Quest names of the expansions | 3,783 | 50 | 1% |
+| Conversations with service NPCs: merchants, housing, travel | 28,777 | 113 | 0.4% |
+| Duty Finder descriptions and development leavings | 703 | 2 | 0.3% |
+| Allied societies, seasonal events, chronicles and relic weapons of the expansions | 59,125 | 22 | 0% |
 | Main scenario, **Heavensward** through **Endwalker** | 35,896 | 0 | 0% |
 | Voiced scenes, **Heavensward** through **Endwalker** | 18,862 | 0 | 0% |
-| Allied societies, seasonal events, chronicles and collaborations of the expansions | 60,036 | 8 | 0% |
-| Conversations with service NPCs: merchants, housing, travel | 28,777 | 113 | 0.4% |
-| The rest: Hildibrand, expansion quest titles, Duty Finder, 7.x content | 15,386 | 330 | 2% |
-| **Total** | **389,449** | **140,133** | **36.0%** |
+| **A Realm Reborn** seasonal events | 3,584 | 0 | 0% |
+| Live content: the Arcadion and Cosmic Exploration | 3,218 | 0 | 0% |
+| **Total** | **403,870** | **143,407** | **35.5%** |
 
 ### How to read these figures
 

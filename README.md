@@ -89,41 +89,44 @@ lugar de reinventarse en cada misión.
 
 ## Estado
 
-Versión de juego **2026.08.05.0000.0000**. Traducidas **140.133 de 389.449 líneas, un 36,0 %**.
+Versión de juego **2026.08.05.0000.0000**. Traducidas **143.407 de 403.870 líneas, un 35,5 %**.
+
+**A Realm Reborn está terminado salvo los eventos de temporada.** Lo que la tabla aún cuenta como
+pendiente dentro de ARR son restos de desarrollo que el juego no enseña.
 
 ### Lo que ya vas a ver en español
 
 | Qué es | Líneas | En español | |
 |---|---|---|---|
-| Lo que dicen los NPC al hablarles, sus gritos y los bocadillos sobre su cabeza | 42.647 | 42.647 | **100 %** |
-| Objetivos y avisos dentro de mazmorras, gestas, incursiones y contenido público | 11.684 | 11.684 | **100 %** |
+| Lo que dicen los NPC al hablarles, sus gritos, los bocadillos, los objetivos de mazmorra y los menús de servicio | 56.441 | 56.441 | **100 %** |
+| **A Realm Reborn** entero salvo los eventos de temporada | 55.636 | 55.527 | **100 %** |
 | Mensajes de combate, avisos rojos de mazmorra y textos del sistema | 8.465 | 8.452 | **100 %** |
-| **A Realm Reborn**: la historia principal, sus escenas y todas las misiones de clase y de trabajo | 29.821 | 29.812 | **100 %** |
-| Escenas con voz de **Dawntrail** | 5.531 | 5.531 | **100 %** |
-| **A Realm Reborn**: los nombres de todas sus misiones | 1.573 | 1.573 | **100 %** |
-| **A Realm Reborn**: el cierre de la historia 2.x, hasta la puerta de Heavensward | 3.777 | 3.774 | **100 %** |
-| **A Realm Reborn**: la Torre de Cristal, la Espiral de Bahamut y las primales en difícil | 1.741 | 1.741 | **100 %** |
-| Las guías del juego: Occult Crescent, Palacio de los Muertos, mahjong, viviendas, Bozja | 1.630 | 1.630 | **100 %** |
+| **The Occult Crescent**: la historia y su línea de armas fantasma | 1.806 | 1.806 | **100 %** |
 | Los tutoriales que el juego te ofrece | 969 | 969 | **100 %** |
-| **The Occult Crescent**, la historia completa | 895 | 895 | **100 %** |
-| Menús de servicios: Gran Compañía, Gold Saucer y similares | 480 | 480 | **100 %** |
-| **A Realm Reborn**: las misiones secundarias de las tres ciudades | 10.912 | 10.780 | **99 %** |
-| **A Realm Reborn**: las tribus aliadas | 6.302 | 5.679 | **90 %** |
-| Historia principal de **Dawntrail** | 11.368 | 9.807 | **86 %** |
+| **Dawntrail**: historia principal y escenas con voz | 16.899 | 15.338 | **91 %** |
+
+Dentro de **A Realm Reborn** eso incluye la historia principal y sus escenas, todas las misiones de
+clase y de trabajo, las secundarias de las tres ciudades, las tribus aliadas, las armas del zodiaco,
+la Torre de Cristal y la Espiral de Bahamut, el cierre de la historia 2.x y el nombre de cada una de
+sus misiones. Lo que aún se cuenta como pendiente ahí son restos de desarrollo que nunca se ven.
 
 ### Lo que está en marcha
 
 | Qué es | Líneas | En español | |
 |---|---|---|---|
 | Misiones de clase y de trabajo de las expansiones | 43.413 | 3.172 | 7 % |
-| Lo que le queda a **A Realm Reborn**: eventos de temporada, armas del zodiaco y misiones sueltas | 5.094 | 397 | 8 % |
+| Etiquetas de la interfaz y pantalla de título | 14.421 | 578 | 4 % |
+| **Hildibrand** | 7.682 | 278 | 4 % |
 | Misiones secundarias de las expansiones | 44.190 | 659 | 1 % |
+| Nombres de las misiones de las expansiones | 3.783 | 50 | 1 % |
+| Conversaciones con NPC de servicio: mercaderes, alquileres, viajes | 28.777 | 113 | 0,4 % |
+| Descripciones del Buscador de misiones y restos de desarrollo | 703 | 2 | 0,3 % |
+| Tribus, eventos, gestas y armas de leyenda de las expansiones | 59.125 | 22 | 0 % |
 | Historia principal, de **Heavensward** a **Endwalker** | 35.896 | 0 | 0 % |
 | Escenas con voz, de **Heavensward** a **Endwalker** | 18.862 | 0 | 0 % |
-| Tribus, eventos de temporada, gestas y colaboraciones de las expansiones | 60.036 | 8 | 0 % |
-| Conversaciones con NPC de servicio: mercaderes, alquileres, viajes | 28.777 | 113 | 0,4 % |
-| Resto: Hildibrand, títulos de las expansiones, Buscador de misiones, contenido 7.x | 15.386 | 330 | 2 % |
-| **Total** | **389.449** | **140.133** | **36,0 %** |
+| Eventos de temporada de **A Realm Reborn** | 3.584 | 0 | 0 % |
+| Contenido actual: el Arcadion y Exploración Cósmica | 3.218 | 0 | 0 % |
+| **Total** | **403.870** | **143.407** | **35,5 %** |
 
 ### Cómo leer estas cifras
 
