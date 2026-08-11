@@ -26,8 +26,6 @@ juego leyó esas palabras de un fichero y las dibujó él mismo.
 
 ![Un bocadillo en español sobre la cabeza de un NPC](images/example3.png)
 
-![Un aviso de combate en español durante un jefe](images/example2.png)
-
 ![Ayuda Activa](images/example5.png)
 
 ## Motivación
