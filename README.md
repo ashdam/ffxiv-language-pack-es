@@ -105,7 +105,7 @@ Versión de juego **2026.08.05.0000.0000**. Traducidas **156.650 de 411.468 lín
 | **The Occult Crescent**: la historia y su línea de armas fantasma | 1.806 | 1.806 | **100 %** |
 | Los tutoriales que el juego te ofrece | 969 | 969 | **100 %** |
 | Las descripciones del Buscador de misiones | 595 | 595 | **100 %** |
-| El Viaje Interminable: la lista de misiones que puedes revivir en la posada | 7.598 | 5.321 | **70 %** |
+| «The Unending Journey»: la lista de escenas que puedes revivir en la posada | 7.598 | 5.321 | **70 %** |
 | **Dawntrail**: historia principal y escenas con voz | 16.899 | 15.338 | **91 %** |
 
 **A Realm Reborn está terminada del todo**: la historia principal y sus escenas, todas las misiones

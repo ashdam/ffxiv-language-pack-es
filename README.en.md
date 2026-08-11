@@ -103,7 +103,7 @@ Game version **2026.08.05.0000.0000**. Translated: **156,650 of 411,468 lines, 3
 | **The Occult Crescent**: the story and its phantom weapon line | 1,806 | 1,806 | **100%** |
 | The tutorials the game offers you | 969 | 969 | **100%** |
 | The Duty Finder descriptions | 595 | 595 | **100%** |
-| The Unending Journey: the list of quests you can relive at the inn | 7,598 | 5,321 | **70%** |
+| «The Unending Journey»: the list of scenes you can relive at the inn | 7,598 | 5,321 | **70%** |
 | **Dawntrail**: main scenario and voiced scenes | 16,899 | 15,338 | **91%** |
 
 **A Realm Reborn is finished, all of it**: the main scenario and its scenes, every class and job
