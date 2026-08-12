@@ -131,15 +131,15 @@ ocho eventos de temporada**.
 ### Cómo leer estas cifras
 
 **Están repartidas entre las siete expansiones a la vez**, así que ninguna fila de la tabla dice
-cuánto de *tu* partida está en español. **A Realm Reborn se está cerrando por completo antes de pasar
-a la siguiente**, y va muy por delante de lo que sugiere el total: de ARR ya están terminados el hilo
-principal, las secundarias de las tres ciudades y **todas las misiones de clase y de trabajo**, de la
-primera del gremio al final de cada trabajo, cada una con sus diálogos, su diario, sus objetivos y
-sus avisos.
+cuánto de *tu* partida está en español. **Las expansiones se cierran de una en una, no un poco en
+todas**, y ya hay dos cerradas: A Realm Reborn entera y Dawntrail entera. En ARR eso significa el
+hilo principal, las secundarias de las tres ciudades y **todas las misiones de clase y de trabajo**,
+de la primera del gremio al final de cada trabajo, cada una con sus diálogos, su diario, sus
+objetivos y sus avisos.
 
-Un personaje nuevo que empiece hoy encuentra el juego en español casi de principio a fin hasta
-terminar A Realm Reborn. A partir de Heavensward, la historia principal y las escenas con voz están
-a medias y el resto va apareciendo por tandas.
+Un personaje nuevo que empiece hoy encuentra el juego en español de principio a fin hasta terminar
+A Realm Reborn. De Heavensward a Endwalker la historia sigue en inglés y va apareciendo por tandas;
+Dawntrail, al otro extremo, ya está hecha.
 
 **Los textos que el juego arma sobre la marcha ya entran en la cuenta.** Son las líneas que se montan
 juntando trozos —«has entrado en *tal sitio*», «*tal sala* se sellará en *tantos* segundos»— y que

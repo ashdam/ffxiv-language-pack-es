@@ -87,7 +87,7 @@ than reinvented with every quest.
 
 ## Status
 
-Game version **2026.08.05.0000.0000**. Translated: **156,650 of 411,468 lines, 38.1%**.
+Game version **2026.08.05.0000.0000**. Translated: **172,175 of 411,331 lines, 41.9%**.
 
 
 
@@ -96,49 +96,51 @@ Game version **2026.08.05.0000.0000**. Translated: **156,650 of 411,468 lines, 3
 
 | What it is | Lines | In Spanish | |
 |---|---|---|---|
-| **A Realm Reborn, the whole of it** | 59,220 | 59,109 | **100%** |
-| What NPCs say when spoken to, their shouts, the balloons, dungeon objectives and service menus | 56,441 | 56,441 | **100%** |
-| Battle messages, red dungeon warnings and system text | 8,465 | 8,452 | **100%** |
+| **A Realm Reborn, the whole of it** | 59,177 | 59,177 | **100%** |
+| What NPCs say when spoken to, their shouts, the balloons, dungeon objectives and service menus | 56,447 | 56,441 | **99.9%** |
+| Battle messages, red dungeon warnings and system text | 8,469 | 8,469 | **100%** |
 | Quest names: in the journal, on the tracker, and in the list at the inn | 11,381 | 9,104 | **80%** |
 | **The Occult Crescent**: the story and its phantom weapon line | 1,806 | 1,806 | **100%** |
+| **The Arcadion**: Dawntrail's raid, the whole of it | 1,224 | 1,224 | **100%** |
+| **Cosmic Exploration**: the story and its sidequests | 1,994 | 1,994 | **100%** |
 | The tutorials the game offers you | 969 | 969 | **100%** |
 | The Duty Finder descriptions | 595 | 595 | **100%** |
-| **Dawntrail**: main scenario and voiced scenes | 16,899 | 15,338 | **91%** |
+| **Dawntrail**: main scenario and voiced scenes | 16,898 | 16,898 | **100%** |
 
-**A Realm Reborn is finished, all of it**: the main scenario and its scenes, every class and job
-quest, the side quests of the three city-states, the allied societies, the zodiac weapons, the
-Crystal Tower and the Binding Coil of Bahamut, the close of the 2.x story and **all eight seasonal
-events**. The few lines the table still counts as pending there are development leavings the game
-never shows.
+**A Realm Reborn is finished, down to the last line**: the main scenario and its scenes, every class
+and job quest, the side quests of the three city-states, the allied societies, the zodiac weapons,
+the Crystal Tower and the Binding Coil of Bahamut, the close of the 2.x story and **all eight
+seasonal events**.
+
+**Dawntrail is finished too**: the main scenario, the voiced scenes, the Occult Crescent and its
+phantom weapons, the Arcadion and Cosmic Exploration.
 
 ### What is under way
 
 | What it is | Lines | In Spanish | |
 |---|---|---|---|
-| Class and job quests of the expansions | 43,413 | 3,172 | 7% |
-| Interface labels and the title screen | 14,421 | 592 | 4% |
+| Class and job quests of the expansions | 43,432 | 3,191 | 7% |
+| Conversations with service NPCs: merchants, housing, travel | 28,698 | 10,662 | 37% |
+| Interface labels and the title screen | 14,448 | 647 | 4% |
 | **Hildibrand** | 7,682 | 278 | 4% |
-| Side quests of the expansions | 44,190 | 659 | 1% |
-| Conversations with service NPCs: merchants, housing, travel | 28,777 | 113 | 0.4% |
-| Allied societies, seasonal events, chronicles and relic weapons of the expansions | 59,125 | 22 | 0% |
-| Main scenario, **Heavensward** through **Endwalker** | 35,896 | 0 | 0% |
-| Voiced scenes, **Heavensward** through **Endwalker** | 18,862 | 0 | 0% |
-| Live content: the Arcadion and Cosmic Exploration | 3,218 | 0 | 0% |
-| Development leavings the player never sees | 108 | 0 | 0% |
-| **Total** | **411,468** | **156,650** | **38.1%** |
+| Side quests of the expansions | 44,193 | 662 | 1% |
+| Allied societies, seasonal events, chronicles and relic weapons of the expansions | 59,160 | 57 | 0.1% |
+| Main scenario, **Heavensward** through **Endwalker** | 35,897 | 1 | 0% |
+| Voiced scenes, **Heavensward** through **Endwalker** | 18,861 | 0 | 0% |
+| **Total** | **411,331** | **172,175** | **41.9%** |
 
 ### How to read these figures
 
 **They are spread across all seven expansions at once**, so no row in the table tells you how much
-of *your* playthrough is in Spanish. **A Realm Reborn is being finished completely before moving on
-to the next**, and it runs well ahead of what the total suggests: in ARR the main scenario, the side
-quests of the three city-states and **every class and job quest** are already done, from the first
-quest at the guild to the end of each job, each with its dialogue, its journal, its objectives and
-its callouts.
+of *your* playthrough is in Spanish. **Expansions are finished one at a time rather than a little
+everywhere**, and two of them now are: A Realm Reborn entire, and Dawntrail entire. In ARR that
+means the main scenario, the side quests of the three city-states and **every class and job quest**,
+from the first quest at the guild to the end of each job, each with its dialogue, its journal, its
+objectives and its callouts.
 
-A new character starting today will find the game in Spanish almost from beginning to end through
-the end of A Realm Reborn. From Heavensward onwards, the main scenario and the voiced scenes are
-half done and the rest arrives in batches.
+A new character starting today will find the game in Spanish from beginning to end through the end
+of A Realm Reborn. From Heavensward to Endwalker the story is still English and arrives in batches;
+Dawntrail at the far end is already done.
 
 **The text the game assembles on the fly now counts too.** These are the lines built out of pieces —
 «you are now in *such and such a place*», «*such a room* will be sealed off in *so many* seconds» —
