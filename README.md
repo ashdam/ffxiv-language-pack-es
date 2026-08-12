@@ -94,39 +94,65 @@ Versión de juego **2026.08.05.0000.0000**. Traducidas **172.175 de 411.331 lín
 
 
 
-### Lo que ya vas a ver en español
+### Qué hay traducido
 
-| Qué es | Líneas | En español | |
-|---|---|---|---|
-| **A Realm Reborn, entera** | 59.177 | 59.177 | **100 %** |
-| Lo que dicen los NPC al hablarles, sus gritos, los bocadillos, los objetivos de mazmorra y los menús de servicio | 56.447 | 56.441 | **99,9 %** |
-| Mensajes de combate, avisos rojos de mazmorra y textos del sistema | 8.469 | 8.469 | **100 %** |
-| El nombre de las misiones: en el diario, en el marcador y en la lista de la posada | 11.381 | 9.104 | **80 %** |
-| **The Occult Crescent**: la historia y su línea de armas fantasma | 1.806 | 1.806 | **100 %** |
-| Los tutoriales que el juego te ofrece | 969 | 969 | **100 %** |
-| Las descripciones del Buscador de misiones | 595 | 595 | **100 %** |
-| **Dawntrail**: historia principal y escenas con voz | 16.898 | 16.898 | **100 %** |
-| **El Arcadion**: el raid de Dawntrail, entero | 1.224 | 1.224 | **100 %** |
-| **Exploración Cósmica**: la historia y sus secundarias | 1.994 | 1.994 | **100 %** |
+**✅** terminado · **%** empezado · **🚧 n** sin empezar, n es la prioridad
 
-**A Realm Reborn está terminada, hasta la última línea**: la historia principal y sus escenas, todas
-las misiones de clase y de trabajo, las secundarias de las tres ciudades, las tribus aliadas, las
-armas del zodiaco, la Torre de Cristal y la Espiral de Bahamut, el cierre de la historia 2.x y **los
-ocho eventos de temporada**.
-
-### Lo que está en marcha
-
-| Qué es | Líneas | En español | |
-|---|---|---|---|
-| Misiones de clase y de trabajo de las expansiones | 43.432 | 3.191 | 7 % |
-| Etiquetas de la interfaz y pantalla de título | 14.448 | 647 | 4 % |
-| **Hildibrand** | 7.682 | 278 | 4 % |
-| Misiones secundarias de las expansiones | 44.193 | 662 | 1 % |
-| Conversaciones con NPC de servicio: mercaderes, alquileres, viajes | 28.698 | 10.662 | 37 % |
-| Tribus, eventos, gestas y armas de leyenda de las expansiones | 59.160 | 57 | 0,1 % |
-| Historia principal, de **Heavensward** a **Endwalker** | 35.897 | 1 | 0 % |
-| Escenas con voz, de **Heavensward** a **Endwalker** | 18.861 | 0 | 0 % |
-| **Total** | **411.331** | **172.175** | **41,9 %** |
+| | Bloque | Qué es | En español | Líneas |
+|---|---|---|---:|---:|
+| ✅ | A Realm Reborn | Historia principal y cinemáticas | 14.422 | 14.422 |
+| ✅ | A Realm Reborn | Misiones de clase y de trabajo | 15.394 | 15.394 |
+| ✅ | A Realm Reborn | Secundarias de las tres ciudades | 10.870 | 10.870 |
+| ✅ | A Realm Reborn | Tribus aliadas | 6.303 | 6.303 |
+| ✅ | A Realm Reborn | Cierre de la historia 2.x | 3.775 | 3.775 |
+| ✅ | A Realm Reborn | Eventos de temporada | 3.583 | 3.583 |
+| ✅ | A Realm Reborn | Gestas y raids | 1.746 | 1.746 |
+| ✅ | A Realm Reborn | Nombres de misión | 1.573 | 1.573 |
+| ✅ | A Realm Reborn | Armas de leyenda: las del zodiaco | 748 | 748 |
+| ✅ | A Realm Reborn | Misiones sin clasificar | 763 | 763 |
+| ✅ | **A Realm Reborn** | | **59.177** | **59.177** |
+| ✅ | Dawntrail | Historia principal | 11.368 | 11.368 |
+| ✅ | Dawntrail | Escenas con voz | 5.530 | 5.530 |
+| ✅ | Dawntrail | The Occult Crescent | 895 | 895 |
+| ✅ | Dawntrail | Armas de leyenda: Phantom Weapons | 911 | 911 |
+| ✅ | Dawntrail | Raid: el Arcadion | 1.224 | 1.224 |
+| ✅ | Dawntrail | Exploración Cósmica: la historia | 1.042 | 1.042 |
+| ✅ | Dawntrail | Exploración Cósmica: secundarias | 952 | 952 |
+| ✅ | **Dawntrail** | | **21.922** | **21.922** |
+| 🚧 5 | Heavensward | Historia principal | 0 | 5.816 |
+| 🚧 5 | Heavensward | Escenas con voz | 0 | 2.534 |
+| 🚧 | **Heavensward** | | **0** | **8.350** |
+| 🚧 6 | Stormblood | Historia principal | 0 | 7.597 |
+| 🚧 6 | Stormblood | Escenas con voz | 0 | 3.370 |
+| 🚧 | **Stormblood** | | **0** | **10.967** |
+| <1% | Shadowbringers | Historia principal | 1 | 10.030 |
+| 🚧 7 | Shadowbringers | Escenas con voz | 0 | 5.220 |
+| <1% | **Shadowbringers** | | **1** | **15.250** |
+| 🚧 8 | Endwalker | Historia principal | 0 | 12.454 |
+| 🚧 8 | Endwalker | Escenas con voz | 0 | 7.737 |
+| 🚧 | **Endwalker** | | **0** | **20.191** |
+| 1% | Todas las expansiones | Misiones secundarias | 662 | 44.193 |
+| 7% | Todas las expansiones | Misiones de clase y de trabajo | 3.191 | 43.432 |
+| <1% | Todas las expansiones | Tribus aliadas | 23 | 20.780 |
+| <1% | Todas las expansiones | Eventos de temporada | 9 | 18.134 |
+| 🚧 10 | Todas las expansiones | Gestas y raids | 0 | 14.411 |
+| <1% | Todas las expansiones | Armas de leyenda | 11 | 3.744 |
+| ✅ | Todas las expansiones | Nombres de misión | 3.783 | 3.783 |
+| <1% | Todas las expansiones | Otras y sin clasificar | 14 | 2.091 |
+| 5% | **Todas las expansiones** | | **7.693** | **150.568** |
+| 99% | Sin expansión | Lo que dicen los NPC, gritos, bocadillos, mazmorras y guías | 56.441 | 56.447 |
+| ✅ | Sin expansión | Mensajes de combate y del sistema | 8.469 | 8.469 |
+| ✅ | Sin expansión | Tutoriales del diario | 969 | 969 |
+| ✅ | Sin expansión | Descripciones del Buscador de misiones | 595 | 595 |
+| 70% | Sin expansión | El Viaje Interminable: lo que falta son nombres de misiones de encargo | 5.321 | 7.598 |
+| 37% | Sin expansión | Menús de NPC de servicio: mercaderes, retainers, viajes | 10.662 | 28.698 |
+| 80% | **Sin expansión** | | **82.457** | **102.776** |
+| 4% | Interfaz | Botones, pestañas y encabezados | 638 | 13.435 |
+| <1% | Interfaz | Pantalla de título y creación de personaje | 9 | 1.013 |
+| 4% | **Interfaz** | | **647** | **14.448** |
+| 3% | Aplazado | Hildibrand | 278 | 7.682 |
+| 3% | **Aplazado** | | **278** | **7.682** |
+| **41,9%** | **TOTAL** | | **172.175** | **411.331** |
 
 ### Cómo leer estas cifras
 

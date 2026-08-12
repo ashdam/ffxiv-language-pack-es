@@ -92,42 +92,65 @@ Game version **2026.08.05.0000.0000**. Translated: **172,175 of 411,331 lines, 4
 
 
 
-### What you will already see in Spanish
+### What is translated
 
-| What it is | Lines | In Spanish | |
-|---|---|---|---|
-| **A Realm Reborn, the whole of it** | 59,177 | 59,177 | **100%** |
-| What NPCs say when spoken to, their shouts, the balloons, dungeon objectives and service menus | 56,447 | 56,441 | **99.9%** |
-| Battle messages, red dungeon warnings and system text | 8,469 | 8,469 | **100%** |
-| Quest names: in the journal, on the tracker, and in the list at the inn | 11,381 | 9,104 | **80%** |
-| **The Occult Crescent**: the story and its phantom weapon line | 1,806 | 1,806 | **100%** |
-| **The Arcadion**: Dawntrail's raid, the whole of it | 1,224 | 1,224 | **100%** |
-| **Cosmic Exploration**: the story and its sidequests | 1,994 | 1,994 | **100%** |
-| The tutorials the game offers you | 969 | 969 | **100%** |
-| The Duty Finder descriptions | 595 | 595 | **100%** |
-| **Dawntrail**: main scenario and voiced scenes | 16,898 | 16,898 | **100%** |
+**✅** done · **%** under way · **🚧 n** not started, n is the priority
 
-**A Realm Reborn is finished, down to the last line**: the main scenario and its scenes, every class
-and job quest, the side quests of the three city-states, the allied societies, the zodiac weapons,
-the Crystal Tower and the Binding Coil of Bahamut, the close of the 2.x story and **all eight
-seasonal events**.
-
-**Dawntrail is finished too**: the main scenario, the voiced scenes, the Occult Crescent and its
-phantom weapons, the Arcadion and Cosmic Exploration.
-
-### What is under way
-
-| What it is | Lines | In Spanish | |
-|---|---|---|---|
-| Class and job quests of the expansions | 43,432 | 3,191 | 7% |
-| Conversations with service NPCs: merchants, housing, travel | 28,698 | 10,662 | 37% |
-| Interface labels and the title screen | 14,448 | 647 | 4% |
-| **Hildibrand** | 7,682 | 278 | 4% |
-| Side quests of the expansions | 44,193 | 662 | 1% |
-| Allied societies, seasonal events, chronicles and relic weapons of the expansions | 59,160 | 57 | 0.1% |
-| Main scenario, **Heavensward** through **Endwalker** | 35,897 | 1 | 0% |
-| Voiced scenes, **Heavensward** through **Endwalker** | 18,861 | 0 | 0% |
-| **Total** | **411,331** | **172,175** | **41.9%** |
+| | Block | Subblock | Spanish | Rows |
+|---|---|---|---:|---:|
+| ✅ | A Realm Reborn | Main scenario and cut-scenes | 14,422 | 14,422 |
+| ✅ | A Realm Reborn | Class and job quests | 15,394 | 15,394 |
+| ✅ | A Realm Reborn | Side quests, three city-states | 10,870 | 10,870 |
+| ✅ | A Realm Reborn | Allied societies | 6,303 | 6,303 |
+| ✅ | A Realm Reborn | Close of the 2.x story | 3,775 | 3,775 |
+| ✅ | A Realm Reborn | Seasonal events | 3,583 | 3,583 |
+| ✅ | A Realm Reborn | Chronicles and raids | 1,746 | 1,746 |
+| ✅ | A Realm Reborn | Quest names | 1,573 | 1,573 |
+| ✅ | A Realm Reborn | Relic weapons — zodiac | 748 | 748 |
+| ✅ | A Realm Reborn | Unfiled quests | 763 | 763 |
+| ✅ | **A Realm Reborn** | | **59,177** | **59,177** |
+| ✅ | Dawntrail | Main scenario | 11,368 | 11,368 |
+| ✅ | Dawntrail | Cut-scenes | 5,530 | 5,530 |
+| ✅ | Dawntrail | Field content — The Occult Crescent | 895 | 895 |
+| ✅ | Dawntrail | Relic weapons — Phantom Weapons | 911 | 911 |
+| ✅ | Dawntrail | Raid — The Arcadion | 1,224 | 1,224 |
+| ✅ | Dawntrail | Cosmic Exploration — main | 1,042 | 1,042 |
+| ✅ | Dawntrail | Cosmic Exploration — side | 952 | 952 |
+| ✅ | **Dawntrail** | | **21,922** | **21,922** |
+| 🚧 5 | Heavensward | Main scenario | 0 | 5,816 |
+| 🚧 5 | Heavensward | Cut-scenes | 0 | 2,534 |
+| 🚧 | **Heavensward** | | **0** | **8,350** |
+| 🚧 6 | Stormblood | Main scenario | 0 | 7,597 |
+| 🚧 6 | Stormblood | Cut-scenes | 0 | 3,370 |
+| 🚧 | **Stormblood** | | **0** | **10,967** |
+| <1% | Shadowbringers | Main scenario | 1 | 10,030 |
+| 🚧 7 | Shadowbringers | Cut-scenes | 0 | 5,220 |
+| <1% | **Shadowbringers** | | **1** | **15,250** |
+| 🚧 8 | Endwalker | Main scenario | 0 | 12,454 |
+| 🚧 8 | Endwalker | Cut-scenes | 0 | 7,737 |
+| 🚧 | **Endwalker** | | **0** | **20,191** |
+| 1% | All expansions | Side quests | 662 | 44,193 |
+| 7% | All expansions | Class and job quests | 3,191 | 43,432 |
+| <1% | All expansions | Allied societies | 23 | 20,780 |
+| <1% | All expansions | Seasonal events | 9 | 18,134 |
+| 🚧 10 | All expansions | Chronicles and raids | 0 | 14,411 |
+| <1% | All expansions | Relic weapons | 11 | 3,744 |
+| ✅ | All expansions | Quest names | 3,783 | 3,783 |
+| <1% | All expansions | Other and unfiled | 14 | 2,091 |
+| 5% | **All expansions** | | **7,693** | **150,568** |
+| 99% | No expansion | Ambient text: NPC chatter, shouts, balloons, duties and guides | 56,441 | 56,447 |
+| ✅ | No expansion | Battle and system messages | 8,469 | 8,469 |
+| ✅ | No expansion | How-to tutorials | 969 | 969 |
+| ✅ | No expansion | Duty Finder descriptions | 595 | 595 |
+| 70% | No expansion | The Unending Journey — the rest is levequest names | 5,321 | 7,598 |
+| 37% | No expansion | Service NPC menus | 10,662 | 28,698 |
+| 80% | **No expansion** | | **82,457** | **102,776** |
+| 4% | Interface | Buttons, tabs, headers (`Addon`) | 638 | 13,435 |
+| <1% | Interface | Title screen, character creation (`Lobby`) | 9 | 1,013 |
+| 4% | **Interface** | | **647** | **14,448** |
+| 3% | Deferred | Hildibrand | 278 | 7,682 |
+| 3% | **Deferred** | | **278** | **7,682** |
+| **41.9%** | **TOTAL** | | **172,175** | **411,331** |
 
 ### How to read these figures
 
