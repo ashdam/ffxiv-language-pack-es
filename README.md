@@ -89,7 +89,7 @@ lugar de reinventarse en cada misión.
 
 ## Estado
 
-Versión de juego **2026.08.05.0000.0000**. Traducidas **156.650 de 411.468 líneas, un 38,1 %**.
+Versión de juego **2026.08.05.0000.0000**. Traducidas **156.785 de 411.600 líneas, un 38,1 %**.
 
 
 
@@ -98,9 +98,9 @@ Versión de juego **2026.08.05.0000.0000**. Traducidas **156.650 de 411.468 lín
 
 | Qué es | Líneas | En español | |
 |---|---|---|---|
-| **A Realm Reborn, entera** | 59.220 | 59.109 | **100 %** |
-| Lo que dicen los NPC al hablarles, sus gritos, los bocadillos, los objetivos de mazmorra y los menús de servicio | 56.441 | 56.441 | **100 %** |
-| Mensajes de combate, avisos rojos de mazmorra y textos del sistema | 8.465 | 8.452 | **100 %** |
+| **A Realm Reborn, entera** | 59.235 | 59.177 | **99,9 %** |
+| Lo que dicen los NPC al hablarles, sus gritos, los bocadillos, los objetivos de mazmorra y los menús de servicio | 56.447 | 56.441 | **99,9 %** |
+| Mensajes de combate, avisos rojos de mazmorra y textos del sistema | 8.482 | 8.452 | **99,6 %** |
 | El nombre de las misiones: en el diario, en el marcador y en la lista de la posada | 11.381 | 9.104 | **80 %** |
 | **The Occult Crescent**: la historia y su línea de armas fantasma | 1.806 | 1.806 | **100 %** |
 | Los tutoriales que el juego te ofrece | 969 | 969 | **100 %** |
@@ -110,24 +110,24 @@ Versión de juego **2026.08.05.0000.0000**. Traducidas **156.650 de 411.468 lín
 **A Realm Reborn está terminada del todo**: la historia principal y sus escenas, todas las misiones
 de clase y de trabajo, las secundarias de las tres ciudades, las tribus aliadas, las armas del
 zodiaco, la Torre de Cristal y la Espiral de Bahamut, el cierre de la historia 2.x y **los ocho
-eventos de temporada**. Las pocas líneas que la tabla aún cuenta como pendientes ahí son restos de
-desarrollo que el juego nunca enseña.
+eventos de temporada**. Las 58 líneas que la tabla aún cuenta ahí son objetivos y avisos sueltos,
+nada que corte una conversación.
 
 ### Lo que está en marcha
 
 | Qué es | Líneas | En español | |
 |---|---|---|---|
-| Misiones de clase y de trabajo de las expansiones | 43.413 | 3.172 | 7 % |
-| Etiquetas de la interfaz y pantalla de título | 14.421 | 592 | 4 % |
+| Misiones de clase y de trabajo de las expansiones | 43.432 | 3.191 | 7 % |
+| Etiquetas de la interfaz y pantalla de título | 14.448 | 592 | 4 % |
 | **Hildibrand** | 7.682 | 278 | 4 % |
-| Misiones secundarias de las expansiones | 44.190 | 659 | 1 % |
-| Conversaciones con NPC de servicio: mercaderes, alquileres, viajes | 28.777 | 113 | 0,4 % |
-| Tribus, eventos, gestas y armas de leyenda de las expansiones | 59.125 | 22 | 0 % |
-| Historia principal, de **Heavensward** a **Endwalker** | 35.896 | 0 | 0 % |
+| Misiones secundarias de las expansiones | 44.193 | 662 | 1 % |
+| Conversaciones con NPC de servicio: mercaderes, alquileres, viajes | 28.786 | 122 | 0,4 % |
+| Tribus, eventos, gestas y armas de leyenda de las expansiones | 59.160 | 57 | 0,1 % |
+| Historia principal, de **Heavensward** a **Endwalker** | 35.897 | 1 | 0 % |
 | Escenas con voz, de **Heavensward** a **Endwalker** | 18.862 | 0 | 0 % |
 | Contenido actual: el Arcadion y Exploración Cósmica | 3.218 | 0 | 0 % |
 | Restos de desarrollo que el jugador nunca ve | 108 | 0 | 0 % |
-| **Total** | **411.468** | **156.650** | **38,1 %** |
+| **Total** | **411.600** | **156.785** | **38,1 %** |
 
 ### Cómo leer estas cifras
 
