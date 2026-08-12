@@ -89,7 +89,7 @@ lugar de reinventarse en cada misión.
 
 ## Estado
 
-Versión de juego **2026.08.05.0000.0000**. Traducidas **161.635 de 411.419 líneas, un 39,3 %**.
+Versión de juego **2026.08.05.0000.0000**. Traducidas **165.980 de 411.403 líneas, un 40,3 %**.
 
 
 
@@ -122,11 +122,11 @@ ocho eventos de temporada**.
 | Etiquetas de la interfaz y pantalla de título | 14.448 | 647 | 4 % |
 | **Hildibrand** | 7.682 | 278 | 4 % |
 | Misiones secundarias de las expansiones | 44.193 | 662 | 1 % |
-| Conversaciones con NPC de servicio: mercaderes, alquileres, viajes | 28.786 | 122 | 0,4 % |
+| Conversaciones con NPC de servicio: mercaderes, alquileres, viajes | 28.770 | 4.467 | 16 % |
 | Tribus, eventos, gestas y armas de leyenda de las expansiones | 59.160 | 57 | 0,1 % |
 | Historia principal, de **Heavensward** a **Endwalker** | 35.897 | 1 | 0 % |
 | Escenas con voz, de **Heavensward** a **Endwalker** | 18.861 | 0 | 0 % |
-| **Total** | **411.419** | **161.635** | **39,3 %** |
+| **Total** | **411.403** | **165.980** | **40,3 %** |
 
 ### Cómo leer estas cifras
 
