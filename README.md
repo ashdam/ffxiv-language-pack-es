@@ -89,7 +89,7 @@ lugar de reinventarse en cada misión.
 
 ## Estado
 
-Versión de juego **2026.08.05.0000.0000**. Traducidas **156.784 de 411.419 líneas, un 38,1 %**.
+Versión de juego **2026.08.05.0000.0000**. Traducidas **159.624 de 411.419 líneas, un 38,8 %**.
 
 
 
@@ -105,7 +105,8 @@ Versión de juego **2026.08.05.0000.0000**. Traducidas **156.784 de 411.419 lín
 | **The Occult Crescent**: la historia y su línea de armas fantasma | 1.806 | 1.806 | **100 %** |
 | Los tutoriales que el juego te ofrece | 969 | 969 | **100 %** |
 | Las descripciones del Buscador de misiones | 595 | 595 | **100 %** |
-| **Dawntrail**: historia principal y escenas con voz | 16.898 | 15.337 | **91 %** |
+| **Dawntrail**: historia principal y escenas con voz | 16.898 | 16.898 | **100 %** |
+| **El Arcadion**: el raid de Dawntrail, entero | 1.224 | 1.224 | **100 %** |
 
 **A Realm Reborn está terminada, hasta la última línea**: la historia principal y sus escenas, todas
 las misiones de clase y de trabajo, las secundarias de las tres ciudades, las tribus aliadas, las
@@ -117,15 +118,15 @@ ocho eventos de temporada**.
 | Qué es | Líneas | En español | |
 |---|---|---|---|
 | Misiones de clase y de trabajo de las expansiones | 43.432 | 3.191 | 7 % |
-| Etiquetas de la interfaz y pantalla de título | 14.448 | 592 | 4 % |
+| Etiquetas de la interfaz y pantalla de título | 14.448 | 647 | 4 % |
 | **Hildibrand** | 7.682 | 278 | 4 % |
 | Misiones secundarias de las expansiones | 44.193 | 662 | 1 % |
 | Conversaciones con NPC de servicio: mercaderes, alquileres, viajes | 28.786 | 122 | 0,4 % |
 | Tribus, eventos, gestas y armas de leyenda de las expansiones | 59.160 | 57 | 0,1 % |
 | Historia principal, de **Heavensward** a **Endwalker** | 35.897 | 1 | 0 % |
 | Escenas con voz, de **Heavensward** a **Endwalker** | 18.861 | 0 | 0 % |
-| Contenido actual: el Arcadion y Exploración Cósmica | 3.218 | 0 | 0 % |
-| **Total** | **411.419** | **156.784** | **38,1 %** |
+| Contenido actual: Exploración Cósmica | 1.994 | 0 | 0 % |
+| **Total** | **411.419** | **159.624** | **38,8 %** |
 
 ### Cómo leer estas cifras
 
