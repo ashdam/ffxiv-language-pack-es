@@ -87,7 +87,7 @@ than reinvented with every quest.
 
 ## Status
 
-Game version **2026.08.05.0000.0000**. Translated: **172,175 of 411,331 lines, 41.9%**.
+Game version **2026.08.05.0000.0000**. Translated: **172,175 of 411,431 lines, 41.8%**.
 
 
 
@@ -141,16 +141,16 @@ Game version **2026.08.05.0000.0000**. Translated: **172,175 of 411,331 lines, 4
 | 99% | No expansion | Ambient text: NPC chatter, shouts, balloons, duties and guides | 56,441 | 56,447 |
 | ✅ | No expansion | Battle and system messages | 8,469 | 8,469 |
 | ✅ | No expansion | How-to tutorials | 969 | 969 |
-| ✅ | No expansion | Duty Finder descriptions | 595 | 595 |
+| 85% | No expansion | Duty Finder descriptions | 595 | 695 |
 | 70% | No expansion | The Unending Journey — the rest is levequest names | 5,321 | 7,598 |
 | 37% | No expansion | Service NPC menus | 10,662 | 28,698 |
-| 80% | **No expansion** | | **82,457** | **102,776** |
+| 80% | **No expansion** | | **82,457** | **102,876** |
 | 4% | Interface | Buttons, tabs, headers (`Addon`) | 638 | 13,435 |
 | <1% | Interface | Title screen, character creation (`Lobby`) | 9 | 1,013 |
 | 4% | **Interface** | | **647** | **14,448** |
 | 3% | Deferred | Hildibrand | 278 | 7,682 |
 | 3% | **Deferred** | | **278** | **7,682** |
-| **41.9%** | **TOTAL** | | **172,175** | **411,331** |
+| **41.8%** | **TOTAL** | | **172,175** | **411,431** |
 
 ### How to read these figures
 

@@ -89,7 +89,7 @@ lugar de reinventarse en cada misión.
 
 ## Estado
 
-Versión de juego **2026.08.05.0000.0000**. Traducidas **172.175 de 411.331 líneas, un 41,9 %**.
+Versión de juego **2026.08.05.0000.0000**. Traducidas **172.175 de 411.431 líneas, un 41,8 %**.
 
 
 
@@ -143,16 +143,16 @@ Versión de juego **2026.08.05.0000.0000**. Traducidas **172.175 de 411.331 lín
 | 99% | Sin expansión | Lo que dicen los NPC, gritos, bocadillos, mazmorras y guías | 56.441 | 56.447 |
 | ✅ | Sin expansión | Mensajes de combate y del sistema | 8.469 | 8.469 |
 | ✅ | Sin expansión | Tutoriales del diario | 969 | 969 |
-| ✅ | Sin expansión | Descripciones del Buscador de misiones | 595 | 595 |
+| 85% | Sin expansión | Descripciones del Buscador de misiones y sus ruletas | 595 | 695 |
 | 70% | Sin expansión | El Viaje Interminable: lo que falta son nombres de misiones de encargo | 5.321 | 7.598 |
 | 37% | Sin expansión | Menús de NPC de servicio: mercaderes, retainers, viajes | 10.662 | 28.698 |
-| 80% | **Sin expansión** | | **82.457** | **102.776** |
+| 80% | **Sin expansión** | | **82.457** | **102.876** |
 | 4% | Interfaz | Botones, pestañas y encabezados | 638 | 13.435 |
 | <1% | Interfaz | Pantalla de título y creación de personaje | 9 | 1.013 |
 | 4% | **Interfaz** | | **647** | **14.448** |
 | 3% | Aplazado | Hildibrand | 278 | 7.682 |
 | 3% | **Aplazado** | | **278** | **7.682** |
-| **41,9%** | **TOTAL** | | **172.175** | **411.331** |
+| **41,8%** | **TOTAL** | | **172.175** | **411.431** |
 
 ### Cómo leer estas cifras
 
