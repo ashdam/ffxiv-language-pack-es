@@ -89,7 +89,7 @@ lugar de reinventarse en cada misión.
 
 ## Estado
 
-Versión de juego **2026.08.05.0000.0000**. Traducidas **156.784 de 411.540 líneas, un 38,1 %**.
+Versión de juego **2026.08.05.0000.0000**. Traducidas **156.784 de 411.419 líneas, un 38,1 %**.
 
 
 
@@ -100,7 +100,7 @@ Versión de juego **2026.08.05.0000.0000**. Traducidas **156.784 de 411.540 lín
 |---|---|---|---|
 | **A Realm Reborn, entera** | 59.177 | 59.177 | **100 %** |
 | Lo que dicen los NPC al hablarles, sus gritos, los bocadillos, los objetivos de mazmorra y los menús de servicio | 56.447 | 56.441 | **99,9 %** |
-| Mensajes de combate, avisos rojos de mazmorra y textos del sistema | 8.482 | 8.452 | **99,6 %** |
+| Mensajes de combate, avisos rojos de mazmorra y textos del sistema | 8.469 | 8.452 | **99,8 %** |
 | El nombre de las misiones: en el diario, en el marcador y en la lista de la posada | 11.381 | 9.104 | **80 %** |
 | **The Occult Crescent**: la historia y su línea de armas fantasma | 1.806 | 1.806 | **100 %** |
 | Los tutoriales que el juego te ofrece | 969 | 969 | **100 %** |
@@ -125,8 +125,7 @@ ocho eventos de temporada**.
 | Historia principal, de **Heavensward** a **Endwalker** | 35.897 | 1 | 0 % |
 | Escenas con voz, de **Heavensward** a **Endwalker** | 18.861 | 0 | 0 % |
 | Contenido actual: el Arcadion y Exploración Cósmica | 3.218 | 0 | 0 % |
-| Restos de desarrollo que el jugador nunca ve | 108 | 0 | 0 % |
-| **Total** | **411.540** | **156.784** | **38,1 %** |
+| **Total** | **411.419** | **156.784** | **38,1 %** |
 
 ### Cómo leer estas cifras
 
