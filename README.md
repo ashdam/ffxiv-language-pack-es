@@ -89,7 +89,7 @@ lugar de reinventarse en cada misión.
 
 ## Estado
 
-Versión de juego **2026.08.05.0000.0000**. Traducidas **175.375 de 411.431 líneas, un 42,6 %**.
+Versión de juego **2026.08.05.0000.0000**. Traducidas **178.240 de 411.431 líneas, un 43,3 %**.
 
 
 
@@ -119,9 +119,9 @@ Versión de juego **2026.08.05.0000.0000**. Traducidas **175.375 de 411.431 lín
 | ✅ | Dawntrail | Exploración Cósmica: la historia | 1.042 | 1.042 |
 | ✅ | Dawntrail | Exploración Cósmica: secundarias | 952 | 952 |
 | ✅ | **Dawntrail** | | **21.922** | **21.922** |
-| 9% | Heavensward | Historia principal | 560 | 5.816 |
+| 58% | Heavensward | Historia principal | 3.425 | 5.816 |
 | ✅ | Heavensward | Escenas con voz | 2.534 | 2.534 |
-| 37% | **Heavensward** | | **3.094** | **8.350** |
+| 71% | **Heavensward** | | **5.959** | **8.350** |
 | 🚧 6 | Stormblood | Historia principal | 0 | 7.597 |
 | 🚧 6 | Stormblood | Escenas con voz | 0 | 3.370 |
 | 🚧 | **Stormblood** | | **0** | **10.967** |
@@ -152,7 +152,7 @@ Versión de juego **2026.08.05.0000.0000**. Traducidas **175.375 de 411.431 lín
 | 4% | **Interfaz** | | **647** | **14.448** |
 | 3% | Aplazado | Hildibrand | 278 | 7.682 |
 | 3% | **Aplazado** | | **278** | **7.682** |
-| **42,6%** | **TOTAL** | | **175.375** | **411.431** |
+| **43,3%** | **TOTAL** | | **178.240** | **411.431** |
 
 ### Cómo leer estas cifras
 
