@@ -87,7 +87,7 @@ than reinvented with every quest.
 
 ## Status
 
-Game version **2026.08.05.0000.0000**. Translated: **178,240 of 411,431 lines, 43.3%**.
+Game version **2026.08.05.0000.0000**. Translated: **180,631 of 411,431 lines, 43.9%**.
 
 
 
@@ -117,9 +117,9 @@ Game version **2026.08.05.0000.0000**. Translated: **178,240 of 411,431 lines, 4
 | ✅ | Dawntrail | Cosmic Exploration — main | 1,042 | 1,042 |
 | ✅ | Dawntrail | Cosmic Exploration — side | 952 | 952 |
 | ✅ | **Dawntrail** | | **21,922** | **21,922** |
-| 58% | Heavensward | Main scenario | 3,425 | 5,816 |
+| ✅ | Heavensward | Main scenario | 5,816 | 5,816 |
 | ✅ | Heavensward | Cut-scenes | 2,534 | 2,534 |
-| 71% | **Heavensward** | | **5,959** | **8,350** |
+| ✅ | **Heavensward** | | **8,350** | **8,350** |
 | 🚧 6 | Stormblood | Main scenario | 0 | 7,597 |
 | 🚧 6 | Stormblood | Cut-scenes | 0 | 3,370 |
 | 🚧 | **Stormblood** | | **0** | **10,967** |
@@ -150,7 +150,7 @@ Game version **2026.08.05.0000.0000**. Translated: **178,240 of 411,431 lines, 4
 | 4% | **Interface** | | **647** | **14,448** |
 | 3% | Deferred | Hildibrand | 278 | 7,682 |
 | 3% | **Deferred** | | **278** | **7,682** |
-| **43.3%** | **TOTAL** | | **178,240** | **411,431** |
+| **43.9%** | **TOTAL** | | **180,631** | **411,431** |
 
 ### How to read these figures
 
