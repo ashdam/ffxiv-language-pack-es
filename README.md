@@ -89,7 +89,7 @@ lugar de reinventarse en cada misión.
 
 ## Estado
 
-Versión de juego **2026.08.11.0000.0000**. Traducidas **185.069 de 411.556 líneas, un 45,0 %**.
+Versión de juego **2026.08.11.0000.0000**. Traducidas **185.078 de 411.565 líneas, un 45,0 %**.
 
 
 
@@ -153,7 +153,7 @@ Versión de juego **2026.08.11.0000.0000**. Traducidas **185.069 de 411.556 lín
 | 6% | **Interfaz** | | **841** | **14.573** |
 | 3% | Aplazado | Hildibrand | 278 | 7.682 |
 | 3% | **Aplazado** | | **278** | **7.682** |
-| **45,0%** | **TOTAL** | | **185.069** | **411.556** |
+| **45,0%** | **TOTAL** | | **185.078** | **411.565** |
 
 ### Cómo leer estas cifras
 

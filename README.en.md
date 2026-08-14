@@ -87,7 +87,7 @@ than reinvented with every quest.
 
 ## Status
 
-Game version **2026.08.11.0000.0000**. Translated: **185,069 of 411,556 lines, 45.0%**.
+Game version **2026.08.11.0000.0000**. Translated: **185,078 of 411,565 lines, 45.0%**.
 
 
 
@@ -151,7 +151,7 @@ Game version **2026.08.11.0000.0000**. Translated: **185,069 of 411,556 lines, 4
 | 6% | **Interface** | | **841** | **14,573** |
 | 3% | Deferred | Hildibrand | 278 | 7,682 |
 | 3% | **Deferred** | | **278** | **7,682** |
-| **45.0%** | **TOTAL** | | **185,069** | **411,556** |
+| **45.0%** | **TOTAL** | | **185,078** | **411,565** |
 
 ### How to read these figures
 
