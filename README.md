@@ -89,7 +89,7 @@ lugar de reinventarse en cada misión.
 
 ## Estado
 
-Versión de juego **2026.08.11.0000.0000**. Traducidas **185.046 de 411.556 líneas, un 45,0 %**.
+Versión de juego **2026.08.11.0000.0000**. Traducidas **185.069 de 411.556 líneas, un 45,0 %**.
 
 
 
@@ -147,13 +147,13 @@ Versión de juego **2026.08.11.0000.0000**. Traducidas **185.046 de 411.556 lín
 | 70% | Sin expansión | El Viaje Interminable: lo que falta son nombres de misiones de encargo | 5.321 | 7.598 |
 | 52% | Sin expansión | Menús de NPC de servicio: mercaderes, retainers, viajes | 14.906 | 28.698 |
 | 84% | **Sin expansión** | | **86.807** | **102.876** |
-| 5% | Interfaz | Botones, pestañas y encabezados | 684 | 13.435 |
+| 5% | Interfaz | Botones, pestañas y encabezados | 707 | 13.435 |
 | ✅ | Interfaz | Nombres de las expediciones de los retainers | 125 | 125 |
 | <1% | Interfaz | Pantalla de título y creación de personaje | 9 | 1.013 |
-| 6% | **Interfaz** | | **818** | **14.573** |
+| 6% | **Interfaz** | | **841** | **14.573** |
 | 3% | Aplazado | Hildibrand | 278 | 7.682 |
 | 3% | **Aplazado** | | **278** | **7.682** |
-| **45,0%** | **TOTAL** | | **185.046** | **411.556** |
+| **45,0%** | **TOTAL** | | **185.069** | **411.556** |
 
 ### Cómo leer estas cifras
 
