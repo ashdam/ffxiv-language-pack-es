@@ -87,7 +87,7 @@ than reinvented with every quest.
 
 ## Status
 
-Game version **2026.08.11.0000.0000**. Translated: **181,566 of 411,556 lines, 44.1%**.
+Game version **2026.08.11.0000.0000**. Translated: **185,046 of 411,556 lines, 45.0%**.
 
 
 
@@ -143,15 +143,15 @@ Game version **2026.08.11.0000.0000**. Translated: **181,566 of 411,556 lines, 4
 | ✅ | No expansion | How-to tutorials | 969 | 969 |
 | ✅ | No expansion | Duty Finder descriptions | 695 | 695 |
 | 70% | No expansion | The Unending Journey — the rest is levequest names | 5,321 | 7,598 |
-| 40% | No expansion | Service NPC menus | 11,472 | 28,698 |
-| 81% | **No expansion** | | **83,373** | **102,876** |
-| 4% | Interface | Buttons, tabs, headers (`Addon`) | 638 | 13,435 |
+| 52% | No expansion | Service NPC menus | 14,906 | 28,698 |
+| 84% | **No expansion** | | **86,807** | **102,876** |
+| 5% | Interface | Buttons, tabs, headers (`Addon`) | 684 | 13,435 |
 | ✅ | Interface | Venture names (`RetainerTaskRandom`) | 125 | 125 |
 | <1% | Interface | Title screen, character creation (`Lobby`) | 9 | 1,013 |
-| 5% | **Interface** | | **772** | **14,573** |
+| 6% | **Interface** | | **818** | **14,573** |
 | 3% | Deferred | Hildibrand | 278 | 7,682 |
 | 3% | **Deferred** | | **278** | **7,682** |
-| **44.1%** | **TOTAL** | | **181,566** | **411,556** |
+| **45.0%** | **TOTAL** | | **185,046** | **411,556** |
 
 ### How to read these figures
 
@@ -165,6 +165,13 @@ objectives and its callouts.
 A new character starting today will find the game in Spanish from beginning to end through the end
 of A Realm Reborn. From Heavensward to Endwalker the story is still English and arrives in batches;
 Dawntrail at the far end is already done.
+
+**The service NPCs are ahead of the story, and in Stormblood they are a long way ahead.** Kugane and
+the towns of Othard and Gyr Abania, the Doman Enclave reconstruction, Eureka, the Clan Centurio
+hunts and the seasonal festivals now answer in Spanish, while the main scenario that takes you there
+has not been started. Someone playing Stormblood today will find everything *around* the story
+translated and the story itself in English — which is the honest shape of a project that finishes
+the ambient text first.
 
 **The text the game assembles on the fly now counts too.** These are the lines built out of pieces —
 «you are now in *such and such a place*», «*such a room* will be sealed off in *so many* seconds» —

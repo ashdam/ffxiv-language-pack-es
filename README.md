@@ -89,7 +89,7 @@ lugar de reinventarse en cada misión.
 
 ## Estado
 
-Versión de juego **2026.08.11.0000.0000**. Traducidas **181.566 de 411.556 líneas, un 44,1 %**.
+Versión de juego **2026.08.11.0000.0000**. Traducidas **185.046 de 411.556 líneas, un 45,0 %**.
 
 
 
@@ -145,14 +145,15 @@ Versión de juego **2026.08.11.0000.0000**. Traducidas **181.566 de 411.556 lín
 | ✅ | Sin expansión | Tutoriales del diario | 969 | 969 |
 | ✅ | Sin expansión | Descripciones del Buscador de misiones y sus ruletas | 695 | 695 |
 | 70% | Sin expansión | El Viaje Interminable: lo que falta son nombres de misiones de encargo | 5.321 | 7.598 |
-| 37% | Sin expansión | Menús de NPC de servicio: mercaderes, retainers, viajes | 10.662 | 28.698 |
-| 80% | **Sin expansión** | | **82.563** | **102.876** |
-| 4% | Interfaz | Botones, pestañas y encabezados | 638 | 13.435 |
+| 52% | Sin expansión | Menús de NPC de servicio: mercaderes, retainers, viajes | 14.906 | 28.698 |
+| 84% | **Sin expansión** | | **86.807** | **102.876** |
+| 5% | Interfaz | Botones, pestañas y encabezados | 684 | 13.435 |
+| ✅ | Interfaz | Nombres de las expediciones de los retainers | 125 | 125 |
 | <1% | Interfaz | Pantalla de título y creación de personaje | 9 | 1.013 |
-| 4% | **Interfaz** | | **647** | **14.448** |
+| 6% | **Interfaz** | | **818** | **14.573** |
 | 3% | Aplazado | Hildibrand | 278 | 7.682 |
 | 3% | **Aplazado** | | **278** | **7.682** |
-| **44,1%** | **TOTAL** | | **181.566** | **411.556** |
+| **45,0%** | **TOTAL** | | **185.046** | **411.556** |
 
 ### Cómo leer estas cifras
 
@@ -166,6 +167,13 @@ objetivos y sus avisos.
 Un personaje nuevo que empiece hoy encuentra el juego en español de principio a fin hasta terminar
 A Realm Reborn. De Heavensward a Endwalker la historia sigue en inglés y va apareciendo por tandas;
 Dawntrail, al otro extremo, ya está hecha.
+
+**Los NPC de servicio van por delante de la historia, y en Stormblood van muy por delante.** Kugane y
+los pueblos de Othard y Gyr Abania, la reconstrucción del Enclave Domano, Eureka, las cacerías del
+Clan Centurio y las fiestas de temporada ya responden en español, mientras que el hilo principal que
+te lleva hasta allí ni se ha empezado. Quien juegue Stormblood hoy encontrará traducido todo lo que
+rodea a la historia y la historia en inglés: es la forma honesta de un proyecto que cierra primero
+el texto ambiental.
 
 **Los textos que el juego arma sobre la marcha ya entran en la cuenta.** Son las líneas que se montan
 juntando trozos —«has entrado en *tal sitio*», «*tal sala* se sellará en *tantos* segundos»— y que
