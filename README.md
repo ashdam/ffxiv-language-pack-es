@@ -188,3 +188,8 @@ sin texto se las llevaba por delante. Ya están dentro y traducidas.
 
 **Lo que aparece como terminado está verificado**, no estimado: cada línea entregada se comprueba
 contra el texto original antes de publicarse.
+
+## Colaboradores
+
+- **Mini Ashdam** — [perfil en Lodestone](https://eu.finalfantasyxiv.com/lodestone/character/1580162/)
+- **Nier Gainsborough** — [perfil en Lodestone](https://eu.finalfantasyxiv.com/lodestone/character/30057928/)

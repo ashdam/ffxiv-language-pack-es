@@ -185,3 +185,8 @@ had been dropping these too. They are in now, and translated.
 
 **Whatever is shown as finished is verified**, not estimated: every delivered line is checked
 against the original text before it is published.
+
+## Contributors
+
+- **Mini Ashdam** — [Lodestone profile](https://eu.finalfantasyxiv.com/lodestone/character/1580162/)
+- **Nier Gainsborough** — [Lodestone profile](https://eu.finalfantasyxiv.com/lodestone/character/30057928/)
