@@ -87,7 +87,7 @@ than reinvented with every quest.
 
 ## Status
 
-Game version **2026.08.11.0000.0000**. Translated: **185,078 of 411,565 lines, 45.0%**.
+Game version **2026.08.11.0000.0000**. Translated: **196,045 of 411,565 lines, 47.6%**.
 
 
 
@@ -120,9 +120,9 @@ Game version **2026.08.11.0000.0000**. Translated: **185,078 of 411,565 lines, 4
 | ✅ | Heavensward | Main scenario | 5,816 | 5,816 |
 | ✅ | Heavensward | Cut-scenes | 2,534 | 2,534 |
 | ✅ | **Heavensward** | | **8,350** | **8,350** |
-| 🚧 6 | Stormblood | Main scenario | 0 | 7,597 |
-| 🚧 6 | Stormblood | Cut-scenes | 0 | 3,370 |
-| 🚧 | **Stormblood** | | **0** | **10,967** |
+| ✅ | Stormblood | Main scenario | 7,597 | 7,597 |
+| ✅ | Stormblood | Cut-scenes | 3,370 | 3,370 |
+| ✅ | **Stormblood** | | **10,967** | **10,967** |
 | <1% | Shadowbringers | Main scenario | 1 | 10,030 |
 | 🚧 7 | Shadowbringers | Cut-scenes | 0 | 5,220 |
 | <1% | **Shadowbringers** | | **1** | **15,250** |
@@ -151,7 +151,7 @@ Game version **2026.08.11.0000.0000**. Translated: **185,078 of 411,565 lines, 4
 | 6% | **Interface** | | **841** | **14,573** |
 | 3% | Deferred | Hildibrand | 278 | 7,682 |
 | 3% | **Deferred** | | **278** | **7,682** |
-| **45.0%** | **TOTAL** | | **185,078** | **411,565** |
+| **47.6%** | **TOTAL** | | **196,045** | **411,565** |
 
 ### How to read these figures
 
@@ -160,18 +160,17 @@ of *your* playthrough is in Spanish. **Expansions are finished one at a time rat
 everywhere**, and two of them now are: A Realm Reborn entire, and Dawntrail entire. In ARR that
 means the main scenario, the side quests of the three city-states and **every class and job quest**,
 from the first quest at the guild to the end of each job, each with its dialogue, its journal, its
-objectives and its callouts.
+objectives and its callouts. Heavensward and Stormblood are done down the middle rather than
+entire — the story spine and its cut-scenes, not yet the side quests, which are counted in the
+**All expansions** block further down.
 
-A new character starting today will find the game in Spanish from beginning to end through the end
-of A Realm Reborn. From Heavensward to Endwalker the story is still English and arrives in batches;
-Dawntrail at the far end is already done.
-
-**The service NPCs are ahead of the story, and in Stormblood they are a long way ahead.** Kugane and
-the towns of Othard and Gyr Abania, the Doman Enclave reconstruction, Eureka, the Clan Centurio
-hunts and the seasonal festivals now answer in Spanish, while the main scenario that takes you there
-has not been started. Someone playing Stormblood today will find everything *around* the story
-translated and the story itself in English — which is the honest shape of a project that finishes
-the ambient text first.
+**The story now runs in Spanish without a break from level 1 to the end of Stormblood.** A new
+character finds A Realm Reborn, Heavensward and Stormblood translated end to end — main scenario and
+voiced cut-scenes alike — and in Stormblood the towns arrived first, so Kugane, Othard, Gyr Abania,
+the Doman Enclave reconstruction, Eureka and the Clan Centurio hunts were already answering in
+Spanish before the story reached them. Shadowbringers is where the Spanish stops and English
+resumes. Dawntrail, at the far end, is done as well, but there is a gap of two expansions between it
+and where the continuous run ends.
 
 **The text the game assembles on the fly now counts too.** These are the lines built out of pieces —
 «you are now in *such and such a place*», «*such a room* will be sealed off in *so many* seconds» —

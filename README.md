@@ -89,7 +89,7 @@ lugar de reinventarse en cada misión.
 
 ## Estado
 
-Versión de juego **2026.08.11.0000.0000**. Traducidas **185.078 de 411.565 líneas, un 45,0 %**.
+Versión de juego **2026.08.11.0000.0000**. Traducidas **196.045 de 411.565 líneas, un 47,6 %**.
 
 
 
@@ -122,9 +122,9 @@ Versión de juego **2026.08.11.0000.0000**. Traducidas **185.078 de 411.565 lín
 | ✅ | Heavensward | Historia principal | 5.816 | 5.816 |
 | ✅ | Heavensward | Escenas con voz | 2.534 | 2.534 |
 | ✅ | **Heavensward** | | **8.350** | **8.350** |
-| 🚧 6 | Stormblood | Historia principal | 0 | 7.597 |
-| 🚧 6 | Stormblood | Escenas con voz | 0 | 3.370 |
-| 🚧 | **Stormblood** | | **0** | **10.967** |
+| ✅ | Stormblood | Historia principal | 7.597 | 7.597 |
+| ✅ | Stormblood | Escenas con voz | 3.370 | 3.370 |
+| ✅ | **Stormblood** | | **10.967** | **10.967** |
 | <1% | Shadowbringers | Historia principal | 1 | 10.030 |
 | 🚧 7 | Shadowbringers | Escenas con voz | 0 | 5.220 |
 | <1% | **Shadowbringers** | | **1** | **15.250** |
@@ -153,7 +153,7 @@ Versión de juego **2026.08.11.0000.0000**. Traducidas **185.078 de 411.565 lín
 | 6% | **Interfaz** | | **841** | **14.573** |
 | 3% | Aplazado | Hildibrand | 278 | 7.682 |
 | 3% | **Aplazado** | | **278** | **7.682** |
-| **45,0%** | **TOTAL** | | **185.078** | **411.565** |
+| **47,6%** | **TOTAL** | | **196.045** | **411.565** |
 
 ### Cómo leer estas cifras
 
@@ -162,18 +162,17 @@ cuánto de *tu* partida está en español. **Las expansiones se cierran de una e
 todas**, y ya hay dos cerradas: A Realm Reborn entera y Dawntrail entera. En ARR eso significa el
 hilo principal, las secundarias de las tres ciudades y **todas las misiones de clase y de trabajo**,
 de la primera del gremio al final de cada trabajo, cada una con sus diálogos, su diario, sus
-objetivos y sus avisos.
+objetivos y sus avisos. Heavensward y Stormblood están hechas por el centro, no enteras: el hilo
+principal y sus escenas con voz, todavía no las secundarias, que se cuentan en el bloque
+**Todas las expansiones** más abajo.
 
-Un personaje nuevo que empiece hoy encuentra el juego en español de principio a fin hasta terminar
-A Realm Reborn. De Heavensward a Endwalker la historia sigue en inglés y va apareciendo por tandas;
-Dawntrail, al otro extremo, ya está hecha.
-
-**Los NPC de servicio van por delante de la historia, y en Stormblood van muy por delante.** Kugane y
-los pueblos de Othard y Gyr Abania, la reconstrucción del Enclave Domano, Eureka, las cacerías del
-Clan Centurio y las fiestas de temporada ya responden en español, mientras que el hilo principal que
-te lleva hasta allí ni se ha empezado. Quien juegue Stormblood hoy encontrará traducido todo lo que
-rodea a la historia y la historia en inglés: es la forma honesta de un proyecto que cierra primero
-el texto ambiental.
+**La historia va ya en español sin cortes desde nivel 1 hasta el final de Stormblood.** Un personaje
+nuevo encuentra A Realm Reborn, Heavensward y Stormblood traducidas de principio a fin —hilo
+principal y escenas con voz—, y en Stormblood los pueblos llegaron antes que la historia, así que
+Kugane, Othard, Gyr Abania, la reconstrucción del Enclave de Doma, Eureka y las cacerías del Clan
+Centurio ya respondían en español antes de que el hilo llegase hasta ellos. Shadowbringers es donde
+se acaba el español y vuelve el inglés. Dawntrail, al otro extremo, también está hecha, pero entre
+ella y donde termina el tramo continuo quedan dos expansiones.
 
 **Los textos que el juego arma sobre la marcha ya entran en la cuenta.** Son las líneas que se montan
 juntando trozos —«has entrado en *tal sitio*», «*tal sala* se sellará en *tantos* segundos»— y que
