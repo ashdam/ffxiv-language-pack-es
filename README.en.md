@@ -87,7 +87,7 @@ than reinvented with every quest.
 
 ## Status
 
-Game version **2026.08.11.0000.0000**. Translated: **196,321 of 411,565 lines, 47.7%**.
+Game version **2026.08.11.0000.0000**. Translated: **196,721 of 411,761 lines, 47.8%**.
 
 
 
@@ -131,7 +131,7 @@ Game version **2026.08.11.0000.0000**. Translated: **196,321 of 411,565 lines, 4
 | 🚧 | **Endwalker** | | **0** | **20,191** |
 | 1% | All expansions | Side quests | 662 | 44,193 |
 | 7% | All expansions | Class and job quests | 3,191 | 43,432 |
-| <1% | All expansions | Allied societies | 23 | 20,780 |
+| 1% | All expansions | Allied societies | 160 | 20,780 |
 | <1% | All expansions | Seasonal events | 9 | 18,134 |
 | 🚧 10 | All expansions | Chronicles and raids | 0 | 14,411 |
 | <1% | All expansions | Relic weapons | 11 | 3,744 |
@@ -145,13 +145,13 @@ Game version **2026.08.11.0000.0000**. Translated: **196,321 of 411,565 lines, 4
 | 70% | No expansion | The Unending Journey — the rest is levequest names | 5,321 | 7,598 |
 | 53% | No expansion | Service NPC menus | 15,182 | 28,698 |
 | 84% | **No expansion** | | **87,083** | **102,876** |
-| 5% | Interface | Buttons, tabs, headers (`Addon`) | 707 | 13,435 |
+| 7% | Interface | Buttons, tabs, headers (`Addon`) | 966 | 13,435 |
 | ✅ | Interface | Venture names (`RetainerTaskRandom`) | 125 | 125 |
 | <1% | Interface | Title screen, character creation (`Lobby`) | 9 | 1,013 |
 | 6% | **Interface** | | **841** | **14,573** |
 | 3% | Deferred | Hildibrand | 278 | 7,682 |
 | 3% | **Deferred** | | **278** | **7,682** |
-| **47.7%** | **TOTAL** | | **196,321** | **411,565** |
+| **47.8%** | **TOTAL** | | **196,721** | **411,761** |
 
 ### How to read these figures
 

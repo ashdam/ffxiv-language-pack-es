@@ -89,7 +89,7 @@ lugar de reinventarse en cada misión.
 
 ## Estado
 
-Versión de juego **2026.08.11.0000.0000**. Traducidas **196.321 de 411.565 líneas, un 47,7 %**.
+Versión de juego **2026.08.11.0000.0000**. Traducidas **196.721 de 411.761 líneas, un 47,8 %**.
 
 
 
@@ -133,7 +133,7 @@ Versión de juego **2026.08.11.0000.0000**. Traducidas **196.321 de 411.565 lín
 | 🚧 | **Endwalker** | | **0** | **20.191** |
 | 1% | Todas las expansiones | Misiones secundarias | 662 | 44.193 |
 | 7% | Todas las expansiones | Misiones de clase y de trabajo | 3.191 | 43.432 |
-| <1% | Todas las expansiones | Tribus aliadas | 23 | 20.780 |
+| 1% | Todas las expansiones | Tribus aliadas | 160 | 20.780 |
 | <1% | Todas las expansiones | Eventos de temporada | 9 | 18.134 |
 | 🚧 10 | Todas las expansiones | Gestas y raids | 0 | 14.411 |
 | <1% | Todas las expansiones | Armas de leyenda | 11 | 3.744 |
@@ -147,13 +147,13 @@ Versión de juego **2026.08.11.0000.0000**. Traducidas **196.321 de 411.565 lín
 | 70% | Sin expansión | El Viaje Interminable: lo que falta son nombres de misiones de encargo | 5.321 | 7.598 |
 | 53% | Sin expansión | Menús de NPC de servicio: mercaderes, retainers, viajes | 15.182 | 28.698 |
 | 84% | **Sin expansión** | | **87.083** | **102.876** |
-| 5% | Interfaz | Botones, pestañas y encabezados | 707 | 13.435 |
+| 7% | Interfaz | Botones, pestañas y encabezados | 966 | 13.435 |
 | ✅ | Interfaz | Nombres de las expediciones de los retainers | 125 | 125 |
 | <1% | Interfaz | Pantalla de título y creación de personaje | 9 | 1.013 |
 | 6% | **Interfaz** | | **841** | **14.573** |
 | 3% | Aplazado | Hildibrand | 278 | 7.682 |
 | 3% | **Aplazado** | | **278** | **7.682** |
-| **47,7%** | **TOTAL** | | **196.321** | **411.565** |
+| **47,8%** | **TOTAL** | | **196.721** | **411.761** |
 
 ### Cómo leer estas cifras
 
