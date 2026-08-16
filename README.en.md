@@ -87,7 +87,7 @@ than reinvented with every quest.
 
 ## Status
 
-Game version **2026.08.11.0000.0000**. Translated: **196,721 of 411,761 lines, 47.8%**.
+Game version **2026.08.11.0000.0000**. Translated: **196,888 of 411,821 lines, 47.8%**.
 
 
 
@@ -140,18 +140,19 @@ Game version **2026.08.11.0000.0000**. Translated: **196,721 of 411,761 lines, 4
 | 5% | **All expansions** | | **7,693** | **150,568** |
 | ✅ | No expansion | Ambient text: NPC chatter, shouts, balloons, duties and guides | 56,447 | 56,447 |
 | ✅ | No expansion | Battle and system messages | 8,469 | 8,469 |
-| ✅ | No expansion | How-to tutorials | 969 | 969 |
+| ✅ | No expansion | How-to tutorials and window help | 1,029 | 1,029 |
 | ✅ | No expansion | Duty Finder descriptions | 695 | 695 |
 | 70% | No expansion | The Unending Journey — the rest is levequest names | 5,321 | 7,598 |
 | 53% | No expansion | Service NPC menus | 15,182 | 28,698 |
-| 84% | **No expansion** | | **87,083** | **102,876** |
-| 7% | Interface | Buttons, tabs, headers (`Addon`) | 966 | 13,435 |
+| 85% | **No expansion** | | **87,143** | **102,936** |
+| 8% | Interface | Buttons, tabs, headers (`Addon`) | 1,068 | 13,435 |
 | ✅ | Interface | Venture names (`RetainerTaskRandom`) | 125 | 125 |
-| <1% | Interface | Title screen, character creation (`Lobby`) | 9 | 1,013 |
-| 6% | **Interface** | | **841** | **14,573** |
+| 1% | Interface | Main menu (`MainCommand`) | 5 | 196 |
+| 1% | Interface | Title screen, character creation (`Lobby`) | 13 | 1,013 |
+| 8% | **Interface** | | **1,211** | **14,769** |
 | 3% | Deferred | Hildibrand | 278 | 7,682 |
 | 3% | **Deferred** | | **278** | **7,682** |
-| **47.8%** | **TOTAL** | | **196,721** | **411,761** |
+| **47.8%** | **TOTAL** | | **196,888** | **411,821** |
 
 ### How to read these figures
 
