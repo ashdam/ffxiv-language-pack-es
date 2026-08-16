@@ -89,7 +89,7 @@ lugar de reinventarse en cada misión.
 
 ## Estado
 
-Versión de juego **2026.08.11.0000.0000**. Traducidas **196.888 de 411.821 líneas, un 47,8 %**.
+Versión de juego **2026.08.11.0000.0000**. Traducidas **198.892 de 411.852 líneas, un 48,3 %**.
 
 
 
@@ -142,19 +142,20 @@ Versión de juego **2026.08.11.0000.0000**. Traducidas **196.888 de 411.821 lín
 | 5% | **Todas las expansiones** | | **7.693** | **150.568** |
 | ✅ | Sin expansión | Lo que dicen los NPC, gritos, bocadillos, mazmorras y guías | 56.447 | 56.447 |
 | ✅ | Sin expansión | Mensajes de combate y del sistema | 8.469 | 8.469 |
-| ✅ | Sin expansión | Tutoriales y ayuda de ventana | 1.029 | 1.029 |
+| ✅ | Sin expansión | Tutoriales y ayuda de ventana | 1.034 | 1.034 |
 | ✅ | Sin expansión | Descripciones del Buscador de misiones y sus ruletas | 695 | 695 |
 | 70% | Sin expansión | El Viaje Interminable: lo que falta son nombres de misiones de encargo | 5.321 | 7.598 |
 | 53% | Sin expansión | Menús de NPC de servicio: mercaderes, retainers, viajes | 15.182 | 28.698 |
-| 85% | **Sin expansión** | | **87.143** | **102.936** |
-| 8% | Interfaz | Botones, pestañas y encabezados | 1.068 | 13.435 |
+| 85% | **Sin expansión** | | **87.148** | **102.941** |
+| 23% | Interfaz | Botones, pestañas y encabezados | 3.039 | 13.435 |
 | ✅ | Interfaz | Nombres de las expediciones de los retainers | 125 | 125 |
-| 1% | Interfaz | Menú principal | 5 | 196 |
+| 4% | Interfaz | Menú principal | 7 | 196 |
+| ✅ | Interfaz | Títulos de las guías de ayuda | 26 | 26 |
 | 1% | Interfaz | Pantalla de título y creación de personaje | 13 | 1.013 |
-| 8% | **Interfaz** | | **1.211** | **14.769** |
+| 22% | **Interfaz** | | **3.210** | **14.795** |
 | 3% | Aplazado | Hildibrand | 278 | 7.682 |
 | 3% | **Aplazado** | | **278** | **7.682** |
-| **47,8%** | **TOTAL** | | **196.888** | **411.821** |
+| **48,3%** | **TOTAL** | | **198.892** | **411.852** |
 
 ### Cómo leer estas cifras
 
