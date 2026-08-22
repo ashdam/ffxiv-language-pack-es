@@ -89,7 +89,7 @@ lugar de reinventarse en cada misión.
 
 ## Estado
 
-Versión de juego **2026.08.11.0000.0000**. Traducidas **283.424 de 412.106 líneas, un 68,8 %**.
+Versión de juego **2026.08.11.0000.0000**. Traducidas **288.644 de 412.106 líneas, un 70,0 %**.
 
 
 
@@ -126,8 +126,8 @@ Versión de juego **2026.08.11.0000.0000**. Traducidas **283.424 de 412.106 lín
 | ✅ | Stormblood | Escenas con voz | 3.370 | 3.370 |
 | ✅ | **Stormblood** | | **10.967** | **10.967** |
 | ✅ | Shadowbringers | Historia principal | 10.030 | 10.030 |
-| 🚧 7 | Shadowbringers | Escenas con voz | 0 | 5.220 |
-| 65% | **Shadowbringers** | | **10.030** | **15.250** |
+| ✅ | Shadowbringers | Escenas con voz | 5.220 | 5.220 |
+| ✅ | **Shadowbringers** | | **15.250** | **15.250** |
 | 🚧 8 | Endwalker | Historia principal | 0 | 12.454 |
 | 🚧 8 | Endwalker | Escenas con voz | 0 | 7.737 |
 | 🚧 | **Endwalker** | | **0** | **20.191** |
@@ -152,7 +152,7 @@ Versión de juego **2026.08.11.0000.0000**. Traducidas **283.424 de 412.106 lín
 | 22% | **Interfaz** | | **3.193** | **14.448** |
 | 3% | Aplazado | Hildibrand | 278 | 7.682 |
 | 3% | **Aplazado** | | **278** | **7.682** |
-| **68,8%** | **TOTAL** | | **283.424** | **412.106** |
+| **70,0%** | **TOTAL** | | **288.644** | **412.106** |
 
 ### Cómo leer estas cifras
 
@@ -165,13 +165,13 @@ objetivos y sus avisos. Heavensward y Stormblood están hechas por el centro, no
 principal y sus escenas con voz, todavía no las secundarias, que se cuentan en el bloque
 **Todas las expansiones** más abajo.
 
-**La historia va ya en español sin cortes desde nivel 1 hasta el final de Stormblood.** Un personaje
-nuevo encuentra A Realm Reborn, Heavensward y Stormblood traducidas de principio a fin —hilo
-principal y escenas con voz—, y en Stormblood los pueblos llegaron antes que la historia, así que
-Kugane, Othard, Gyr Abania, la reconstrucción del Enclave de Doma, Eureka y las cacerías del Clan
-Centurio ya respondían en español antes de que el hilo llegase hasta ellos. Shadowbringers es donde
-se acaba el español y vuelve el inglés. Dawntrail, al otro extremo, también está hecha, pero entre
-ella y donde termina el tramo continuo quedan dos expansiones.
+**La historia va ya en español sin cortes desde nivel 1 hasta el final de Shadowbringers.** Un
+personaje nuevo encuentra A Realm Reborn, Heavensward, Stormblood y Shadowbringers traducidas de
+principio a fin —hilo principal y escenas con voz—, y en Stormblood los pueblos llegaron antes que
+la historia, así que Kugane, Othard, Gyr Abania, la reconstrucción del Enclave de Doma, Eureka y las
+cacerías del Clan Centurio ya respondían en español antes de que el hilo llegase hasta ellos.
+Endwalker es donde se acaba el español y vuelve el inglés. Dawntrail, al otro extremo, también está
+hecha, pero entre ella y donde termina el tramo continuo queda una expansión.
 
 **Los textos que el juego arma sobre la marcha ya entran en la cuenta.** Son las líneas que se montan
 juntando trozos —«has entrado en *tal sitio*», «*tal sala* se sellará en *tantos* segundos»— y que

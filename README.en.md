@@ -87,7 +87,7 @@ than reinvented with every quest.
 
 ## Status
 
-Game version **2026.08.11.0000.0000**. Translated: **283,424 of 412,106 lines, 68.8%**.
+Game version **2026.08.11.0000.0000**. Translated: **288,644 of 412,106 lines, 70.0%**.
 
 
 
@@ -124,8 +124,8 @@ Game version **2026.08.11.0000.0000**. Translated: **283,424 of 412,106 lines, 6
 | ✅ | Stormblood | Cut-scenes | 3,370 | 3,370 |
 | ✅ | **Stormblood** | | **10,967** | **10,967** |
 | ✅ | Shadowbringers | Main scenario | 10,030 | 10,030 |
-| 🚧 7 | Shadowbringers | Cut-scenes | 0 | 5,220 |
-| 65% | **Shadowbringers** | | **10,030** | **15,250** |
+| ✅ | Shadowbringers | Cut-scenes | 5,220 | 5,220 |
+| ✅ | **Shadowbringers** | | **15,250** | **15,250** |
 | 🚧 8 | Endwalker | Main scenario | 0 | 12,454 |
 | 🚧 8 | Endwalker | Cut-scenes | 0 | 7,737 |
 | 🚧 | **Endwalker** | | **0** | **20,191** |
@@ -150,7 +150,7 @@ Game version **2026.08.11.0000.0000**. Translated: **283,424 of 412,106 lines, 6
 | 22% | **Interface** | | **3,193** | **14,448** |
 | 3% | Deferred | Hildibrand | 278 | 7,682 |
 | 3% | **Deferred** | | **278** | **7,682** |
-| **68.8%** | **TOTAL** | | **283,424** | **412,106** |
+| **70.0%** | **TOTAL** | | **288,644** | **412,106** |
 
 ### How to read these figures
 
@@ -163,13 +163,13 @@ objectives and its callouts. Heavensward and Stormblood are done down the middle
 entire — the story spine and its cut-scenes, not yet the side quests, which are counted in the
 **All expansions** block further down.
 
-**The story now runs in Spanish without a break from level 1 to the end of Stormblood.** A new
-character finds A Realm Reborn, Heavensward and Stormblood translated end to end — main scenario and
-voiced cut-scenes alike — and in Stormblood the towns arrived first, so Kugane, Othard, Gyr Abania,
-the Doman Enclave reconstruction, Eureka and the Clan Centurio hunts were already answering in
-Spanish before the story reached them. Shadowbringers is where the Spanish stops and English
-resumes. Dawntrail, at the far end, is done as well, but there is a gap of two expansions between it
-and where the continuous run ends.
+**The story now runs in Spanish without a break from level 1 to the end of Shadowbringers.** A new
+character finds A Realm Reborn, Heavensward, Stormblood and Shadowbringers translated end to end —
+main scenario and voiced cut-scenes alike — and in Stormblood the towns arrived first, so Kugane,
+Othard, Gyr Abania, the Doman Enclave reconstruction, Eureka and the Clan Centurio hunts were
+already answering in Spanish before the story reached them. Endwalker is where the Spanish stops and
+English resumes. Dawntrail, at the far end, is done as well, but there is a gap of one expansion
+between it and where the continuous run ends.
 
 **The text the game assembles on the fly now counts too.** These are the lines built out of pieces —
 «you are now in *such and such a place*», «*such a room* will be sealed off in *so many* seconds» —
