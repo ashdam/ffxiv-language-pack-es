@@ -89,7 +89,7 @@ lugar de reinventarse en cada misión.
 
 ## Estado
 
-Versión de juego **2026.08.11.0000.0000**. Traducidas **199.022 de 411.852 líneas, un 48,3 %**.
+Versión de juego **2026.08.11.0000.0000**. Traducidas **283.422 de 412.106 líneas, un 68,8 %**.
 
 
 
@@ -125,37 +125,34 @@ Versión de juego **2026.08.11.0000.0000**. Traducidas **199.022 de 411.852 lín
 | ✅ | Stormblood | Historia principal | 7.597 | 7.597 |
 | ✅ | Stormblood | Escenas con voz | 3.370 | 3.370 |
 | ✅ | **Stormblood** | | **10.967** | **10.967** |
-| <1% | Shadowbringers | Historia principal | 1 | 10.030 |
+| ✅ | Shadowbringers | Historia principal | 10.030 | 10.030 |
 | 🚧 7 | Shadowbringers | Escenas con voz | 0 | 5.220 |
-| <1% | **Shadowbringers** | | **1** | **15.250** |
+| 65% | **Shadowbringers** | | **10.030** | **15.250** |
 | 🚧 8 | Endwalker | Historia principal | 0 | 12.454 |
 | 🚧 8 | Endwalker | Escenas con voz | 0 | 7.737 |
 | 🚧 | **Endwalker** | | **0** | **20.191** |
 | 1% | Todas las expansiones | Misiones secundarias | 662 | 44.193 |
-| 7% | Todas las expansiones | Misiones de clase y de trabajo | 3.191 | 43.432 |
-| 1% | Todas las expansiones | Tribus aliadas | 160 | 20.780 |
-| <1% | Todas las expansiones | Eventos de temporada | 9 | 18.134 |
+| 99% | Todas las expansiones | Misiones de clase y de trabajo | 43.431 | 43.432 |
+| <1% | Todas las expansiones | Tribus aliadas | 160 | 20.780 |
+| ✅ | Todas las expansiones | Eventos de temporada | 18.134 | 18.134 |
 | 🚧 10 | Todas las expansiones | Gestas y raids | 0 | 14.411 |
 | <1% | Todas las expansiones | Armas de leyenda | 11 | 3.744 |
 | ✅ | Todas las expansiones | Nombres de misión | 3.783 | 3.783 |
 | <1% | Todas las expansiones | Otras y sin clasificar | 14 | 2.091 |
-| 5% | **Todas las expansiones** | | **7.693** | **150.568** |
-| ✅ | Sin expansión | Lo que dicen los NPC, gritos, bocadillos, mazmorras y guías | 56.447 | 56.447 |
+| 43% | **Todas las expansiones** | | **66.195** | **150.568** |
+| 99% | Sin expansión | Lo que dicen los NPC, gritos, bocadillos, mazmorras y guías | 56.934 | 57.122 |
 | ✅ | Sin expansión | Mensajes de combate y del sistema | 8.469 | 8.469 |
-| ✅ | Sin expansión | Tutoriales y ayuda de ventana | 1.034 | 1.034 |
+| ✅ | Sin expansión | Tutoriales del diario | 969 | 969 |
 | ✅ | Sin expansión | Descripciones del Buscador de misiones y sus ruletas | 695 | 695 |
-| 70% | Sin expansión | El Viaje Interminable: lo que falta son nombres de misiones de encargo | 5.321 | 7.598 |
-| 53% | Sin expansión | Menús de NPC de servicio: mercaderes, retainers, viajes | 15.182 | 28.698 |
-| 85% | **Sin expansión** | | **87.148** | **102.941** |
-| 24% | Interfaz | Botones, pestañas y encabezados | 3.167 | 13.435 |
-| ✅ | Interfaz | Nombres de las expediciones de los retainers | 125 | 125 |
-| 4% | Interfaz | Menú principal | 8 | 196 |
-| ✅ | Interfaz | Títulos de las guías de ayuda | 26 | 26 |
+| 99% | Sin expansión | El Viaje Interminable: lo que falta son nombres de misiones de encargo | 7.575 | 7.598 |
+| 99% | Sin expansión | Menús de NPC de servicio: mercaderes, retainers, viajes | 28.670 | 28.698 |
+| 99% | **Sin expansión** | | **103.312** | **103.551** |
+| 23% | Interfaz | Botones, pestañas y encabezados | 3.177 | 13.435 |
 | 1% | Interfaz | Pantalla de título y creación de personaje | 14 | 1.013 |
-| 23% | **Interfaz** | | **3.340** | **14.795** |
+| 22% | **Interfaz** | | **3.191** | **14.448** |
 | 3% | Aplazado | Hildibrand | 278 | 7.682 |
 | 3% | **Aplazado** | | **278** | **7.682** |
-| **48,3%** | **TOTAL** | | **199.022** | **411.852** |
+| **68,8%** | **TOTAL** | | **283.422** | **412.106** |
 
 ### Cómo leer estas cifras
 

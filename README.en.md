@@ -87,7 +87,7 @@ than reinvented with every quest.
 
 ## Status
 
-Game version **2026.08.11.0000.0000**. Translated: **199,022 of 411,852 lines, 48.3%**.
+Game version **2026.08.11.0000.0000**. Translated: **283,422 of 412,106 lines, 68.8%**.
 
 
 
@@ -123,37 +123,34 @@ Game version **2026.08.11.0000.0000**. Translated: **199,022 of 411,852 lines, 4
 | ✅ | Stormblood | Main scenario | 7,597 | 7,597 |
 | ✅ | Stormblood | Cut-scenes | 3,370 | 3,370 |
 | ✅ | **Stormblood** | | **10,967** | **10,967** |
-| <1% | Shadowbringers | Main scenario | 1 | 10,030 |
+| ✅ | Shadowbringers | Main scenario | 10,030 | 10,030 |
 | 🚧 7 | Shadowbringers | Cut-scenes | 0 | 5,220 |
-| <1% | **Shadowbringers** | | **1** | **15,250** |
+| 65% | **Shadowbringers** | | **10,030** | **15,250** |
 | 🚧 8 | Endwalker | Main scenario | 0 | 12,454 |
 | 🚧 8 | Endwalker | Cut-scenes | 0 | 7,737 |
 | 🚧 | **Endwalker** | | **0** | **20,191** |
 | 1% | All expansions | Side quests | 662 | 44,193 |
-| 7% | All expansions | Class and job quests | 3,191 | 43,432 |
-| 1% | All expansions | Allied societies | 160 | 20,780 |
-| <1% | All expansions | Seasonal events | 9 | 18,134 |
+| 99% | All expansions | Class and job quests | 43,431 | 43,432 |
+| <1% | All expansions | Allied societies | 160 | 20,780 |
+| ✅ | All expansions | Seasonal events | 18,134 | 18,134 |
 | 🚧 10 | All expansions | Chronicles and raids | 0 | 14,411 |
 | <1% | All expansions | Relic weapons | 11 | 3,744 |
 | ✅ | All expansions | Quest names | 3,783 | 3,783 |
 | <1% | All expansions | Other and unfiled | 14 | 2,091 |
-| 5% | **All expansions** | | **7,693** | **150,568** |
-| ✅ | No expansion | Ambient text: NPC chatter, shouts, balloons, duties and guides | 56,447 | 56,447 |
+| 43% | **All expansions** | | **66,195** | **150,568** |
+| 99% | No expansion | Ambient text: NPC chatter, shouts, balloons, duties and guides | 56,934 | 57,122 |
 | ✅ | No expansion | Battle and system messages | 8,469 | 8,469 |
-| ✅ | No expansion | How-to tutorials and window help | 1,034 | 1,034 |
+| ✅ | No expansion | How-to tutorials | 969 | 969 |
 | ✅ | No expansion | Duty Finder descriptions | 695 | 695 |
-| 70% | No expansion | The Unending Journey — the rest is levequest names | 5,321 | 7,598 |
-| 53% | No expansion | Service NPC menus | 15,182 | 28,698 |
-| 85% | **No expansion** | | **87,148** | **102,941** |
-| 24% | Interface | Buttons, tabs, headers (`Addon`) | 3,167 | 13,435 |
-| ✅ | Interface | Venture names (`RetainerTaskRandom`) | 125 | 125 |
-| 4% | Interface | Main menu (`MainCommand`) | 8 | 196 |
-| ✅ | Interface | Standalone help titles (`DescriptionStandAloneTransient`) | 26 | 26 |
+| 99% | No expansion | The Unending Journey — the rest is levequest names | 7,575 | 7,598 |
+| 99% | No expansion | Service NPC menus | 28,670 | 28,698 |
+| 99% | **No expansion** | | **103,312** | **103,551** |
+| 23% | Interface | Buttons, tabs, headers (`Addon`) | 3,177 | 13,435 |
 | 1% | Interface | Title screen, character creation (`Lobby`) | 14 | 1,013 |
-| 23% | **Interface** | | **3,340** | **14,795** |
+| 22% | **Interface** | | **3,191** | **14,448** |
 | 3% | Deferred | Hildibrand | 278 | 7,682 |
 | 3% | **Deferred** | | **278** | **7,682** |
-| **48.3%** | **TOTAL** | | **199,022** | **411,852** |
+| **68.8%** | **TOTAL** | | **283,422** | **412,106** |
 
 ### How to read these figures
 
