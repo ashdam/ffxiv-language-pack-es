@@ -87,7 +87,7 @@ than reinvented with every quest.
 
 ## Status
 
-Game version **2026.08.11.0000.0000**. Translated: **283,422 of 412,106 lines, 68.8%**.
+Game version **2026.08.11.0000.0000**. Translated: **283,424 of 412,106 lines, 68.8%**.
 
 
 
@@ -145,12 +145,12 @@ Game version **2026.08.11.0000.0000**. Translated: **283,422 of 412,106 lines, 6
 | 99% | No expansion | The Unending Journey — the rest is levequest names | 7,575 | 7,598 |
 | 99% | No expansion | Service NPC menus | 28,670 | 28,698 |
 | 99% | **No expansion** | | **103,312** | **103,551** |
-| 23% | Interface | Buttons, tabs, headers (`Addon`) | 3,177 | 13,435 |
+| 23% | Interface | Buttons, tabs, headers (`Addon`) | 3,179 | 13,435 |
 | 1% | Interface | Title screen, character creation (`Lobby`) | 14 | 1,013 |
-| 22% | **Interface** | | **3,191** | **14,448** |
+| 22% | **Interface** | | **3,193** | **14,448** |
 | 3% | Deferred | Hildibrand | 278 | 7,682 |
 | 3% | **Deferred** | | **278** | **7,682** |
-| **68.8%** | **TOTAL** | | **283,422** | **412,106** |
+| **68.8%** | **TOTAL** | | **283,424** | **412,106** |
 
 ### How to read these figures
 
